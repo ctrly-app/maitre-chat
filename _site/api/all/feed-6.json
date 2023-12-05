@@ -38,12 +38,12 @@
     }
     ,
     {
-      "title": "Born to Journal",
-      "link": "/journal/all/born-to/",
-      "img": "art.jpeg",
-      "description": "The experience was so exhilarating that Bruce decided to write about it. That's how this extraordinary autobiography began. Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humour and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger and darkness that fuelled his imagination, leading up to the moment he refers to as 'The Big Bang': seeing Elvis Presley's debut on The Ed Sullivan Show.",
-      "departement": "Paris",
-      "code_postal": "75"
+      "title": "Surging Seas",
+      "link": "/ecologie/all/surging-seas/",
+      "img": "surging-seas.png",
+      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
+      "departement": "Princeton",
+      "code_postal": "US"
     }
   ]
 }
