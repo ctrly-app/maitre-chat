@@ -2,48 +2,39 @@
   "pages": [
     
     {
-      "title": "Semences Paysannes",
-      "link": "/ecologie/all/semences-paysannes/",
-      "img": "semences-paysannes-vignette.png",
-      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
-      "departement": "Lot-et-Garonne",
-      "code_postal": "47"
+      "title": "Papy Polca",
+      "link": "/ludique/all/papy-polca/",
+      "img": "papy-polca.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "France",
+      "code_postal": "NR"
     }
     ,
     {
-      "title": "Maison des Semences Paysannes Maralpines",
-      "link": "/ecologie/all/maison-semences-paysannes-maralpines/",
-      "img": "maison-semences-paysannes-maralpines.png",
-      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
-      "departement": "Cher",
-      "code_postal": "18"
+      "title": "Mindustry",
+      "link": "/ludique/all/mindustry/",
+      "img": "mindustry.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "NR",
+      "code_postal": "NR"
     }
     ,
     {
-      "title": "Eaux Secours Agissons",
-      "link": "/ecologie/all/eaux-secours-agissons/",
-      "img": "eaux-secours.png",
-      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
-      "departement": "Val-de-Marne",
-      "code_postal": "94"
+      "title": "La boutique",
+      "link": "/ludique/all/la-boutique/",
+      "img": "la-boutique.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Finistère",
+      "code_postal": "29"
     }
     ,
     {
-      "title": "Collectif Citoyen 06",
-      "link": "/ecologie/all/collectif-citoyen-06/",
-      "img": "collectif-citoyen-06.png",
-      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
-      "departement": "Alpes-Maritimes",
-      "code_postal": "6"
-    }
-    ,
-    {
-      "title": "Citoyens Solidaires",
-      "link": "/ecologie/all/citoyens-solidaires/",
-      "img": "citoyens-solidaires.png",
-      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
-      "departement": "Nord",
-      "code_postal": "59"
+      "title": "Collectif Noom",
+      "link": "/ludique/all/collectif-noom/",
+      "img": "noom.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Morbihan",
+      "code_postal": "56"
     }
   ]
 }

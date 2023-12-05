@@ -4,7 +4,7 @@ permalink: /api/all
 pagination:
   permalink: ''
   enabled: true
-  per_page: 5
+  per_page: 4
   collection: all
   extension: .json
   indexpage: 'feed-:num'

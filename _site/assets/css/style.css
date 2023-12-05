@@ -988,4 +988,8 @@ nav .nav-link.show {
   .home-entete img {
     width: 100%; }
   .home-entete .d-flex {
-    justify-content: center !important; } }
+    justify-content: center !important; }
+
+  ul.dropdown-menu.show {
+    border: none !important;
+    margin-left: 2rem; } }

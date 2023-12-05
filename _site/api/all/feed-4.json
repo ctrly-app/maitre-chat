@@ -2,48 +2,39 @@
   "pages": [
     
     {
-      "title": "La Fun",
-      "link": "/numerique/all/fun/",
-      "img": "la-fun.png",
+      "title": "La maison du libre",
+      "link": "/numerique/all/maison-du-libre/",
+      "img": "maison-du-libre.png",
       "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Indre-et-Loire",
-      "code_postal": "37"
+      "departement": "Loire-Atlantique",
+      "code_postal": "44"
     }
     ,
     {
-      "title": "Easter Eggs",
-      "link": "/numerique/all/easter-eggs/",
-      "img": "easter-eggs.png",
+      "title": "Librezo",
+      "link": "/numerique/all/librezo/",
+      "img": "librezo.png",
       "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
       "departement": "Paris",
       "code_postal": "75"
     }
     ,
     {
-      "title": "Timbre FM",
-      "link": "/medias/all/timbre-fm/",
-      "img": "timbre-fm.png",
+      "title": "Labomedia",
+      "link": "/numerique/all/labomedia/",
+      "img": "labomedia-vignette.png",
       "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Morbihan",
-      "code_postal": "56"
+      "departement": "Loiret",
+      "code_postal": "45"
     }
     ,
     {
-      "title": "Ploum",
-      "link": "/medias/all/ploum/",
-      "img": "",
+      "title": "La Fun",
+      "link": "/numerique/all/fun/",
+      "img": "la-fun.png",
       "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Belgique",
-      "code_postal": "NR"
-    }
-    ,
-    {
-      "title": "Libres Commères",
-      "link": "/medias/all/libre-comm%C3%A8res/",
-      "img": "libres-commeres.png",
-      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Jura",
-      "code_postal": "39"
+      "departement": "Indre-et-Loire",
+      "code_postal": "37"
     }
   ]
 }

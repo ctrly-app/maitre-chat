@@ -2,48 +2,39 @@
   "pages": [
     
     {
-      "title": "Mindustry",
-      "link": "/ludique/all/mindustry/",
-      "img": "mindustry.png",
-      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "NR",
-      "code_postal": "NR"
-    }
-    ,
-    {
-      "title": "La boutique",
-      "link": "/ludique/all/la-boutique/",
-      "img": "la-boutique.png",
-      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Finistère",
-      "code_postal": "29"
-    }
-    ,
-    {
-      "title": "Collectif Noom",
-      "link": "/ludique/all/collectif-noom/",
-      "img": "noom.png",
+      "title": "La télé des passeurs",
+      "link": "/medias/all/la-tele-des-passeurs/",
+      "img": "la-tele-des-passeurs.png",
       "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
       "departement": "Morbihan",
       "code_postal": "56"
     }
     ,
     {
-      "title": "Brasserie Ville-sur-Illon",
-      "link": "/social/all/brasserie-ville-sur-illon/",
-      "img": "brasserie-vignette.png",
-      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
-      "departement": "Vosges",
-      "code_postal": "88"
+      "title": "Blast",
+      "link": "/medias/all/blast/",
+      "img": "blast.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Paris",
+      "code_postal": "75"
     }
     ,
     {
-      "title": "Surging Seas",
-      "link": "/ecologie/all/surging-seas/",
-      "img": "surging-seas.png",
-      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
-      "departement": "Princeton",
-      "code_postal": "US"
+      "title": "Acrimed",
+      "link": "/medias/all/acrimed/",
+      "img": "acrimed.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Paris",
+      "code_postal": "75"
+    }
+    ,
+    {
+      "title": "terre Ludique",
+      "link": "/ludique/all/terre-ludique/",
+      "img": "terre-ludique.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Bouches-du-Rhône",
+      "code_postal": "13"
     }
   ]
 }

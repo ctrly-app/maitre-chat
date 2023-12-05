@@ -2,48 +2,39 @@
   "pages": [
     
     {
-      "title": "La télé des passeurs",
-      "link": "/medias/all/la-tele-des-passeurs/",
-      "img": "la-tele-des-passeurs.png",
+      "title": "Easter Eggs",
+      "link": "/numerique/all/easter-eggs/",
+      "img": "easter-eggs.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Paris",
+      "code_postal": "75"
+    }
+    ,
+    {
+      "title": "Timbre FM",
+      "link": "/medias/all/timbre-fm/",
+      "img": "timbre-fm.png",
       "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
       "departement": "Morbihan",
       "code_postal": "56"
     }
     ,
     {
-      "title": "Blast",
-      "link": "/medias/all/blast/",
-      "img": "blast.png",
+      "title": "Ploum",
+      "link": "/medias/all/ploum/",
+      "img": "",
       "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Paris",
-      "code_postal": "75"
-    }
-    ,
-    {
-      "title": "Acrimed",
-      "link": "/medias/all/acrimed/",
-      "img": "acrimed.png",
-      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Paris",
-      "code_postal": "75"
-    }
-    ,
-    {
-      "title": "terre Ludique",
-      "link": "/ludique/all/terre-ludique/",
-      "img": "terre-ludique.png",
-      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "Bouches-du-Rhône",
-      "code_postal": "13"
-    }
-    ,
-    {
-      "title": "Papy Polca",
-      "link": "/ludique/all/papy-polca/",
-      "img": "papy-polca.png",
-      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
-      "departement": "France",
+      "departement": "Belgique",
       "code_postal": "NR"
+    }
+    ,
+    {
+      "title": "Libres Commères",
+      "link": "/medias/all/libre-comm%C3%A8res/",
+      "img": "libres-commeres.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Jura",
+      "code_postal": "39"
     }
   ]
 }

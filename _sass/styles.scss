@@ -68,7 +68,6 @@ nav .nav-link.show {
     font-weight: 100 !important;
 }
 
-// Small devices (landscape phones, 576px and up)
 @media (max-width: 576px) {
     .home-entete {
         img {
@@ -78,5 +77,10 @@ nav .nav-link.show {
         .d-flex {
             justify-content: center !important;
         }
+    }
+
+    ul.dropdown-menu.show {
+        border: none !important;
+        margin-left: 2rem;
     }
 }
