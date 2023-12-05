@@ -25,24 +25,6 @@ function create_initiative(article, index) {
   `
 }
 
-function create_article(article, index) {
-    console.log(article);
-    return `
-  <div class="carousel-item${index == 0 ? ' active' : ''}">
-  <div class="col-md-3 col-12">
-      <div class="journal d-flex flex-column justify-content-between align-items-start">
-      <div>
-              <p class="fw-bold is-text-primary fs-5 mt-3">${article.title}</p>
-              <p class="fw-bold fs-6">${article.author}</p>
-                  <p class="has-text-weight-light mt-1">${article.description.length > 350 ? (article.description.substr(0, 349).trim() + "...") : article.description}</p>
-                </div>
-                  <a href="{{ site.baseurl }}/actions" class="btn btn-primary align-self-end text-uppercase">Lire</a>
-               </div>
-      </div>
-  </div>
-  `
-}
-
 
 document.addEventListener("DOMContentLoaded", function (event) {
 
@@ -56,34 +38,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
             slides.innerHTML = html;
             let items = document.querySelectorAll('#initiatives .carousel-item')
-
-            items.forEach((el) => {
-                const minPerSlide = 4
-                let next = el.nextElementSibling
-                for (var i = 1; i < minPerSlide; i++) {
-                    if (!next) {
-                        next = items[0]
-                    }
-                    let cloneChild = next.cloneNode(true)
-                    el.appendChild(cloneChild.children[0])
-                    next = next.nextElementSibling
-                }
-            })
-        })
-        .catch(function (err) {
-            console.log("Something went wrong!", err);
-        });
-
-    fetch(`${window.location.protocol}//${window.location.hostname}:${window.location.port}/api/journal/feed-1.json`)
-        .then(function (response) {
-            return response.json();
-        }).then(function (data) {
-            console.log(data)
-            const html = data.pages.map((el, index) => create_article(el, index)).reduce((acc, el) => acc + el, "");
-            const slides = document.querySelector("#journal");
-
-            slides.innerHTML = html;
-            let items = document.querySelectorAll('#journal .carousel-item')
 
             items.forEach((el) => {
                 const minPerSlide = 4

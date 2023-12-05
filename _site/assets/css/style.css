@@ -815,6 +815,18 @@
     font-size: 1.1rem;
     margin-top: 1.25rem; }
 
+.article-image {
+  width: 200px;
+  height: 200px;
+  object-fit: contain; }
+
+.article-hr {
+  color: #42A1BF; }
+
+.article-description {
+  text-align: justify;
+  text-justify: inter-word; }
+
 .is-text-primary {
   color: #42A1BF; }
 
