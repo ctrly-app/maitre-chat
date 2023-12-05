@@ -1,0 +1,76 @@
+---
+layout: default
+---
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/carousel.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1 class="text-center is-text-primary fw-bold text-uppercase">{{ page.title }}</h1>
+    <p class="text-center text-uppercase fw-bold">({{ paginator.total_posts }} initiatives)</p>
+    <div class="row justify-content-md-center mt-4">
+      {% for post in paginator.posts %}
+      <div class="col-md-4 col-sm-6 col-12 p-4">
+        <div class="tagbox d-flex flex-column justify-content-between">
+          <div>
+            <div class="row">
+              <div class="col">
+                <p class="fw-bold is-text-primary text-uppercase text-center">{{ post.title }}</p>
+              </div>
+              <div class="col-md-7">
+                <img src="{{ site.baseurl }}/assets/images/{{post.img}}" alt="" class="img-fluid" />
+              </div>
+            </div>
+
+            <p class="fw-bold">{{ post.departement }} ({{ post.code_postal }})</p>
+            <p class="has-text-weight-light mt-1">{{ post.description | truncate: 180 }}</p>
+          </div>
+          <div class="text-end">
+            {% if page.title != 'Journal' %}
+            <a class="btn btn-grey text-uppercase mt-3" href="{{ post.web }}">accéder au site</a>
+            {% endif %}
+            <a class="btn btn-primary text-uppercase mt-3" href="{{ post.url | relative_url }}">voir</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    {% if paginator.total_pages > 1 %}
+    <div class="d-flex justify-content-center">
+      {% if paginator.first_page %}
+      <div class="pagination">
+        <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lsaquo;&lsaquo;</a>
+      </div>
+      {% endif %}
+
+      {% if paginator.page_trail %}
+      {% for trail in paginator.page_trail %}
+      <div class="pagination {% if page.url==trail.path %}selected {% endif %}">
+        <a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}" title="{{trail.title}}">{{ trail.num
+          }}</a>
+      </div>
+      {% endfor %}
+      {% endif %}
+
+      {% if paginator.last_page %}
+      <div class="pagination">
+        <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rsaquo;&rsaquo;</a>
+      </div>
+      {% endif %}
+    </div>
+    {% endif %}
+
+  </div>
+  <script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

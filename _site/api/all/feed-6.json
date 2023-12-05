@@ -1,0 +1,49 @@
+{
+  "pages": [
+    
+    {
+      "title": "Mindustry",
+      "link": "/ludique/all/mindustry/",
+      "img": "mindustry.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "NR",
+      "code_postal": "NR"
+    }
+    ,
+    {
+      "title": "La boutique",
+      "link": "/ludique/all/la-boutique/",
+      "img": "la-boutique.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Finistère",
+      "code_postal": "29"
+    }
+    ,
+    {
+      "title": "Collectif Noom",
+      "link": "/ludique/all/collectif-noom/",
+      "img": "noom.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Morbihan",
+      "code_postal": "56"
+    }
+    ,
+    {
+      "title": "Brasserie Ville-sur-Illon",
+      "link": "/social/all/brasserie-ville-sur-illon/",
+      "img": "brasserie-vignette.png",
+      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
+      "departement": "Vosges",
+      "code_postal": "88"
+    }
+    ,
+    {
+      "title": "Born to Journal",
+      "link": "/journal/all/born-to/",
+      "img": "art.jpeg",
+      "description": "The experience was so exhilarating that Bruce decided to write about it. That's how this extraordinary autobiography began. Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humour and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger and darkness that fuelled his imagination, leading up to the moment he refers to as 'The Big Bang': seeing Elvis Presley's debut on The Ed Sullivan Show.",
+      "departement": "Paris",
+      "code_postal": "75"
+    }
+  ]
+}

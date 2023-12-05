@@ -1,0 +1,47 @@
+{% for node in pages_list %}
+{% if (group == null or group == node.group) and (node.pagination_info.curr_page == 1 or
+node.pagination_info == null)
+%}
+{% if page.url == node.url %}
+{% if node.title == 'Catégories' %}
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle text-uppercase" href="#" role="button" data-bs-toggle="dropdown"
+        aria-expanded="false">
+        {{ node.title }}
+    </a>
+    <ul class="dropdown-menu">
+        {% for my_page in site.pages %}
+        {% if my_page.title and my_page.autogen == nil and my_page.hidden == false %}
+        <li><a class="nav-link text-uppercase" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</li>
+{% else %}
+<li class="nav-item"><a class="nav-link active text-uppercase" href="{{node.url}}">{{node.title}}</a></li>
+{% endif %}
+{% else %}
+{% if node.title == 'Catégories' %}
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle text-uppercase" href="#" role="button" data-bs-toggle="dropdown"
+        aria-expanded="false">
+        {{ node.title }}
+    </a>
+    <ul class="dropdown-menu">
+        {% for my_page in site.pages %}
+        {% if my_page.title and my_page.autogen == nil and my_page.hidden == false %}
+        <li><a class="nav-link text-uppercase" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</li>
+{% else %}
+<li class="nav-item"><a class="nav-link text-uppercase" href="{{node.url}}">{{node.title}}</a></li>
+{% endif %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}

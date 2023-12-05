@@ -1,0 +1,164 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+hidden: true
+group: "navigation"
+title: "Accueil"
+order: 1
+pagination:
+enabled: true
+collection: all
+sort_field: 'title'
+sort_reverse: false
+---
+
+<div class="jumbotron">
+  <img src="{{ site.baseurl }}/assets/images/clouds.png" alt="" style="width:100%;" />
+  <p class="fs-1 fw-bold top-right text-center text-uppercase d-none d-md-block d-lg-block">Bienvenue<br />sur la
+    <span class="underline">plateforme</span>
+    libre<br /> des
+    initiatives
+    <span class="underline">engagées</span>
+  </p>
+  <p class="fs-1 fw-bold is-text-primary text-center text-uppercase d-block d-md-none d-lg-none mt-3">Bienvenue<br />sur
+    la
+    <span class="underline">plateforme</span>
+    libre<br /> des
+    initiatives
+    <span class="underline">engagées</span>
+  </p>
+</div>
+
+<div class="text-center mt-2">
+  <a class="btn btn-primary text-uppercase" href="{{ site.baseurl }}/actions">qui sommes-nous ?</a>
+</div>
+
+<div class="row actions justify-content-md-center mt-4 mt-4">
+  <div class="col-md-4">
+    <img src="{{ site.baseurl }}/assets/images/map.png" class="img-fluid" alt="" />
+  </div>
+  <div class="col-md-4 d-flex flex-column justify-content-center align-items-center text-uppercase text-white">
+    <h2 class="fs-3 fw-light">carte intéractive</h2>
+    <hr class="actions--separator" />
+    <p class="text-center fs-1 fw-bold">toutes<br /> les initiatives<br /> "près de chez-vous"
+    </p>
+    <a class="btn btn-light text-uppercase mb-3" href="{{ site.baseurl }}/actions">parcourir</a>
+  </div>
+</div>
+
+<div class="mx-4 mt-4">
+  <h2 class="fs-1 is-text-primary text-center fw-bold">Les <span class="underline">dernières
+      initiatives</span><br />ajoutées</h2>
+
+  <div class="row mx-auto my-auto justify-content-center mt-3">
+    <div id="initiativesCarousel" class="carousel slide" data-bs-ride="carousel">
+      <div id="initiatives" class="carousel-inner" role="listbox"></div>
+      <a class="carousel-control-prev bg-transparent w-aut" href="#initiativesCarousel" role="button"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      </a>
+      <a class="carousel-control-next bg-transparent w-aut" href="#initiativesCarousel" role="button"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="text-center mt-3">
+  <a class="btn btn-primary text-uppercase" href="{{ site.baseurl }}/actions">Tout voir &rsaquo;</a>
+</div>
+
+<div class="row actions justify-content-md-center mt-4">
+  <div class="col-md-4 d-flex justify-content-center">
+    <img src="{{ site.baseurl }}/assets/images/participation.png" class="img-fluid" alt="" />
+  </div>
+  <div class="col-md-4 d-flex flex-column justify-content-center align-items-center text-white">
+    <h2 class="fs-3 fw-light text-uppercase">appel à participation</h2>
+    <hr class="actions--separator" />
+    <p class="text-center fs-1 fw-bold">comment <span class="underline">contribuer</span><br /> au projet ?
+    </p>
+    <p class="text-center fw-light mt-2 w-75">C’est simple, il vous suffit de nous partager une initiative par mail
+      ou de
+      créer le contenu directement sur GitHub, et hop, c’est fait !
+      <br /><br />
+      L’essence du projet consiste en la création d’une plateforme participative alors n’hésitez surtout pas à
+      nous solliciter.
+    </p>
+    <a class="btn btn-light text-uppercase mb-3 mt-3" href="{{ site.baseurl }}/actions">découvrir</a>
+  </div>
+</div>
+
+
+
+<div class="mx-4 mt-4">
+  <h2 class="fs-1 is-text-primary text-center fw-bold">Le <span class="underline">journal</span><br /></h2>
+
+  <div class="row mx-auto my-auto justify-content-center mt-3">
+    <div id="journalCarousel" class="carousel slide" data-bs-ride="carousel">
+      <div id="journal" class="carousel-inner" role="listbox"></div>
+      <a class="carousel-control-prev bg-transparent w-aut" href="#journalCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      </a>
+      <a class="carousel-control-next bg-transparent w-aut" href="#journalCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="text-center mt-3">
+  <a class="btn btn-primary text-uppercase" href="{{ site.baseurl }}/actions">Tout voir &rsaquo;
+  </a>
+</div>
+
+<div class="categories mt-4 p-3">
+  <h2 class="fs-1 fw-bold text-white text-center text-uppercase">Toutes nos <span class="underline">catégories</span>
+  </h2>
+  <div class="row justify-content-center mt-5">
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-white text-uppercase is-box-round fw-bold"
+        style="background-image: url('{{ site.baseurl }}/assets/images/art.jpeg');">art</div>
+    </a>
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-white text-uppercase is-box-round fw-bold"
+        style="background-image: url('{{ site.baseurl }}/assets/images/ecologie.png');">écologie
+      </div>
+    </a>
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-white text-uppercase is-box-round fw-bold"
+        style="background-image: url('{{ site.baseurl }}/assets/images/medias.png');">médias
+      </div>
+    </a>
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-uppercase bg-white is-box-round is-text-primary fw-bold">
+        tout voir
+      </div>
+    </a>
+  </div>
+
+  <div class="row justify-content-center mb-4">
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-white text-uppercase is-box-round fw-bold"
+        style="background-image: url('{{ site.baseurl }}/assets/images/social.jpg');">social
+      </div>
+    </a>
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-white text-uppercase is-box-round fw-bold"
+        style="background-image: url('{{ site.baseurl }}/assets/images/ludique.jpeg');">ludique
+      </div>
+    </a>
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-white text-uppercase is-box-round fw-bold"
+        style="background-image: url('{{ site.baseurl }}/assets/images/numerique.jpeg');">numérique
+      </div>
+    </a>
+    <a href="" class="col-md-2 col-6 text-decoration-none mt-4">
+      <div class="text-center text-white text-uppercase is-box-round fw-bold"
+        style="background-image: url('{{ site.baseurl }}/assets/images/alternatives.jpg');">alternatives
+      </div>
+    </a>
+  </div>
+</div>

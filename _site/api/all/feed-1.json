@@ -1,0 +1,49 @@
+{
+  "pages": [
+    
+    {
+      "title": "Voies Libres Drôme",
+      "link": "/social/all/voies-libres/",
+      "img": "voies-libres-drome.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Drôme",
+      "code_postal": "26"
+    }
+    ,
+    {
+      "title": "Vert Dragon",
+      "link": "/social/all/vert-dragon/",
+      "img": "vert-dragon.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Loire-Atlantique",
+      "code_postal": "44"
+    }
+    ,
+    {
+      "title": "Tremargat Kafe - La Pépie",
+      "link": "/social/all/tremargat-kafe-pepie/",
+      "img": "pepie.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Côte d'Armor",
+      "code_postal": "22"
+    }
+    ,
+    {
+      "title": "Open Insulin Foundation",
+      "link": "/social/all/open-insuline-project/",
+      "img": "open-insulin-foundation.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "US",
+      "code_postal": "San Francisco"
+    }
+    ,
+    {
+      "title": "My Human Kit",
+      "link": "/social/all/my-human-kit/",
+      "img": "my-human-kit.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Ille-et-Vilaine",
+      "code_postal": "35"
+    }
+  ]
+}

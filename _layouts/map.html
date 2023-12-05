@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+
+<body>
+    <article class="container article">
+        {{ content | markdownify }}
+    </article>
+
+
+    <script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/leaflet.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/map.js"></script>
+
+</body>
+
+</html>

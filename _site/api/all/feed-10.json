@@ -1,0 +1,31 @@
+{
+  "pages": [
+    
+    {
+      "title": "Citoyens Solidaires",
+      "link": "/ecologie/all/citoyens-solidaires/",
+      "img": "citoyens-solidaires.png",
+      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
+      "departement": "Nord",
+      "code_postal": "59"
+    }
+    ,
+    {
+      "title": "Atelier Paysan",
+      "link": "/ecologie/all/atelier-paysan/",
+      "img": "atelier-paysan.png",
+      "description": "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies.",
+      "departement": "Isère",
+      "code_postal": "38"
+    }
+    ,
+    {
+      "title": "Born to Alternative",
+      "link": "/alternatives/all/born-to/",
+      "img": "art.jpeg",
+      "description": "Un mauris purus, dapibus pellentesque nunc vel, sollicitudin posuere urna. Cras vitae semper dui. Vestibulum convallis ultrices ultrices. Donec augue arcu, bibendum nec nunc a, scelerisque pretium erat.",
+      "departement": "",
+      "code_postal": ""
+    }
+  ]
+}

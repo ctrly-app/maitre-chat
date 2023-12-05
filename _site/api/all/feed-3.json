@@ -1,0 +1,49 @@
+{
+  "pages": [
+    
+    {
+      "title": "Ping",
+      "link": "/numerique/all/ping/",
+      "img": "ping.jpg",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Loire-Atlantique",
+      "code_postal": "44"
+    }
+    ,
+    {
+      "title": "open Street map",
+      "link": "/numerique/all/open-street-map/",
+      "img": "open-street-map.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Monde",
+      "code_postal": "NR"
+    }
+    ,
+    {
+      "title": "La maison du libre",
+      "link": "/numerique/all/maison-du-libre/",
+      "img": "maison-du-libre.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Loire-Atlantique",
+      "code_postal": "44"
+    }
+    ,
+    {
+      "title": "Librezo",
+      "link": "/numerique/all/librezo/",
+      "img": "librezo.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Paris",
+      "code_postal": "75"
+    }
+    ,
+    {
+      "title": "Labomedia",
+      "link": "/numerique/all/labomedia/",
+      "img": "labomedia-vignette.png",
+      "description": "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !",
+      "departement": "Loiret",
+      "code_postal": "45"
+    }
+  ]
+}
