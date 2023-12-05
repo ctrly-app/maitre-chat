@@ -7,6 +7,7 @@
 @import "layout/article";
 @import "layout/tags";
 @import "layout/a_propos";
+@import "layout/map";
 @import "components/box";
 @import "components/pagination";
 @import "components/phares";
@@ -60,4 +61,22 @@ footer {
     transform: skew(-12deg) translateX(-1%);
     background: darken(#f2f2f2, 10%);
     z-index: -1;
+}
+
+.active,
+nav .nav-link.show {
+    font-weight: 100 !important;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 576px) {
+    .home-entete {
+        img {
+            width: 100%;
+        }
+
+        .d-flex {
+            justify-content: center !important;
+        }
+    }
 }

@@ -16,8 +16,8 @@ document.addEventListener("DOMContentLoaded", function () {
         markers.clearLayers();
         console.log(datas)
         const icon = L.icon({
-            iconUrl: `${window.location.protocol}//${window.location.hostname}:${window.location.port}/assets/images/marker-icon.png`,
-            shadowUrl: `${window.location.protocol}//${window.location.hostname}:${window.location.port}/assets/images/marker-shadow.png`,
+            iconUrl: `${window.location.protocol}//${window.location.hostname}:${window.location.port}/assets/images/base/marker-icon.png`,
+            shadowUrl: `${window.location.protocol}//${window.location.hostname}:${window.location.port}/assets/images/base/marker-shadow.png`,
         })
         const pois = datas.filter(article => article.longitude && article.latitude && article.longitude != '' && article.latitude != '');
         pois.forEach(element => {

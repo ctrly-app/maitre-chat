@@ -1,0 +1,70 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: map
+title: "à côté de chez-vous"
+order: 3
+group: "navigation"
+hidden: true
+---
+
+<h1 class="is-text-primary text-center mt-4 text-uppercase fw-bold fs-2">les projets "près de chez-vous"</h1>
+
+<div class="row justify-content-md-center mt-4">
+    <div class="col-md-6 col-12">
+        <p class="text-center">Retrouvez la <span class="is-text-primary">carte intéractive</span> de toutes les
+            initiatives sélectionnées par nos soins, de
+            France et de Navarre. Cet annuaire regroupe <span class="is-text-primary">tous les projets libres, engagés,
+                et militants portés sur
+                l'entraide, la coopération, l’autonomie, la solidarité et le bien commun</span>.
+            <br /><br />
+            Cet outil permet de visualiser <span class="is-text-primary">le réseau des acteurs en action au niveau
+                local</span>. Découvrez les initiatives
+            près de chez vous, vous trouverez peut être <span class="is-text-primary">un projet qui vous intriguera et
+                que vous aurez envie de
+                rejoindre.</span>
+        </p>
+    </div>
+</div>
+
+<p class="is-text-primary text-uppercase fw-bold">filtre par typologie :</p>
+<div class="row">
+    {% for my_page in site.pages %}
+    {% if my_page.title and my_page.autogen == nil and my_page.hidden == false %}
+    <div class="col-md-2 col-6">
+        <input class="form-check-input" type="checkbox" value="" id="{{ my_page.pagination.tag | escape }}">
+        <label class="form-check-label text-uppercase " for="{{ my_page.pagination.tag | escape }}">
+            {{ my_page.title | escape }}
+        </label>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div id="map" class="mt-4"></div>
+
+<div class="row actions justify-content-md-center mt-4 p-3">
+    <div class="col-md-4 col-12 d-flex justify-content-center align-items-center">
+        <img src="{{ site.baseurl }}/assets/images/base/map.png" class="img-fluid" alt="" />
+    </div>
+    <div class="col-md-5 col-12 d-flex flex-column justify-content-center align-items-center">
+        <h2 class="fw-bold text-white text-center fs-2  text-uppercase">vous souhaitez <span
+                class="underline">rejoindre</span><br />notre
+            <span class="underline">annuaire</span> ?
+        </h2>
+        <p class="text-center fw-light mt-2 w-75 text-white">C’est simple, il vous suffit de nous partager une
+            initiative par mail
+            ou de
+            créer le contenu directement sur GitHub, et hop, c’est fait !</p>
+        <div class="w-50">
+            <a class="btn btn-light text-uppercase mb-2 mt-3 w-100" href="mailto: maitrechat@maitrechat.radio.fm">e-mail
+                &rsaquo;</a>
+            <a class="btn btn-light text-uppercase my-2 w-100" href="https://ludosphere.fr/@maitrechat">mastodon
+                &rsaquo;</a>
+            <a class="btn btn-light text-uppercase mt-2 mb-4 w-100"
+                href="https://github.com/ctrlz-app/maitre-chat">github
+                &rsaquo;</a>
+        </div>
+    </div>
+</div>

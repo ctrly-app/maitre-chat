@@ -12,7 +12,8 @@ node.pagination_info == null)
     <ul class="dropdown-menu">
         {% for my_page in site.pages %}
         {% if my_page.title and my_page.autogen == nil and my_page.hidden == false %}
-        <li><a class="nav-link text-uppercase" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        <li><a class="nav-link active text-uppercase" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape
+                }}</a>
         </li>
         {% endif %}
         {% endfor %}
@@ -24,10 +25,17 @@ node.pagination_info == null)
 {% else %}
 {% if node.title == 'Catégories' %}
 <li class="nav-item dropdown">
+    {% if page.layout == 'tags' %}
+    <a class="nav-link dropdown-toggle active text-uppercase" href="#" role="button" data-bs-toggle="dropdown"
+        aria-expanded="false">
+        {{ node.title }}
+    </a>
+    {% else %}
     <a class="nav-link dropdown-toggle text-uppercase" href="#" role="button" data-bs-toggle="dropdown"
         aria-expanded="false">
         {{ node.title }}
     </a>
+    {% endif %}
     <ul class="dropdown-menu">
         {% for my_page in site.pages %}
         {% if my_page.title and my_page.autogen == nil and my_page.hidden == false %}
