@@ -22,7 +22,7 @@ layout: default
         <p class="fw-bold">{{ post.departement }} ({{ post.code_postal }})</p>
         <p class="has-text-weight-light mt-1 article-description">{{ post.description | truncate: 500 }}</p>
       </div>
-      <div class="col d-flex flex-column justify-content-center align-items-center px-5">
+      <div class="col d-flex flex-column justify-content-center align-items-center px-5 order-md-last order-first">
         <img src="{{ site.baseurl }}/assets/images/{{post.img}}" alt="" class="article-image" />
         <div class="text-end">
           {% if page.title != 'Journal' %}
