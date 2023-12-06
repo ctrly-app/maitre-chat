@@ -7,7 +7,7 @@ function create_initiative(article) {
             <p class="fw-bold fs-6">${article.departement} (${article.code_postal})</p>
             <div class="row mb-3 w-100">
                 <div class="col-md-10 col-12 d-none d-md-block">
-                    <p class="has-text-weight-light mt-1">${article.description.length > 120 ? (article.description.substr(0, 119).trim() + "...") : article.description}</p>
+                    <p class="fw-light mt-1">${article.description.length > 120 ? (article.description.substr(0, 119).trim() + "...") : article.description}</p>
                 </div>
                 <div class="col-md-2 col-12 d-flex justify-content-center align-items-center">
                     <a href="${article.link}" class="btn btn-primary text-uppercase">Voir</a>
