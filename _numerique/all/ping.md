@@ -5,7 +5,7 @@ date:   2023-09-13 19:16:49 +0100
 author: "ping"
 img: ping.jpg
 tags: numerique
-description: "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !"
+description: "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer avec la tête et les deux mains ! Comment le numérique transforme-t-il notre société ? Quel est son impact sur  notre environnement, notre manière de vivre, de penser, de créer ?  Comment favoriser, dans cet univers parfois opaque, la libre circulation des idées et des savoirs-faire ? PiNG contribue au développement des compétences des professionnelles, en exercice ou en devenir, ainsi que des passionnées qui œuvrent au quotidien en lien avec les enjeux du numérique aujourd’hui et/ou qui mobilisent des usages numériques innovants."
 departement: Loire-Atlantique
 code_postal: 44
 latitude: 47.2060965
@@ -86,7 +86,7 @@ Une fois par mois, les membres de la communauté PING se réunissent autour d’
 
 
 
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
+{% include images2.html image1="ping-1.png" alt1="" image2="ping-2.png" alt2="" %}
 
 {: .mb-5}
 
@@ -139,6 +139,8 @@ PING propose également des parcours intermédiaires ou autonomie pour les adhé
   {: .mb-5}
 
 ### 3 - Une communauté d'acteurs engagés :
+  {: .mb-5}
+
 - **Rejoignez une communauté** :
 
   Participez aux nombreux rendez-vous récurrents pendant lequel les adhérent(e)s se présentent ainsi que leurs projets.
@@ -155,13 +157,17 @@ PING propose également des parcours intermédiaires ou autonomie pour les adhé
 
 {% capture phares %}
 ### 1 - Adhérer à l'association :
-- Pour soutenir les valeurs de notre projet associatif qui défend  une certaine vision du numérique, accéder à nos ateliers pour de la  pratique libre et tout un programme d’activité, mais aussi pour  rejoindre et faire vivre une chouette communauté !
+Pour soutenir les valeurs de notre projet associatif qui défend  une certaine vision du numérique, accéder à nos ateliers pour de la  pratique libre et tout un programme d’activité, mais aussi pour  rejoindre et faire vivre une chouette communauté !
+
 - De 5€ / an (tarif solidaire) à 90€ / an (plein tarif)
 
 ### 2 - Faire un don :
-- Pour  soutenir l’association afin de nous permettre de maintenir notre  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi nous permettre de développer de nouveaux projets comme des  interfaces pour faciliter la documentation !
 
-  Cliquez ici >
+Pour  soutenir l’association afin de nous permettre de maintenir notre  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi nous permettre de développer de nouveaux projets comme des  interfaces pour faciliter la documentation !
+
+  
+<a href="https://ping.odoo.com/shop/category/dons-1" target="_blank">Cliquez ici ></a>
+
 
   {% endcapture %}
 
