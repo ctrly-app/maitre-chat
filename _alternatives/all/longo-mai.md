@@ -3,7 +3,7 @@ layout: post
 title:  "Longo Maï"
 date:   2023-12-06 18:16:49 +0100
 author: "maitre-chat"
-img: atelier-paysan.png
+img: longomai.png
 tags: alternatives
 description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
 departement: Isère
