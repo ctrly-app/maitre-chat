@@ -14,7 +14,12 @@ longitude: 2.5062689781188965
 
 {% include box.html image="maison-semences-paysannes-maralpines.png" nom="Maison des Semences Paysannes Maralpines" adresse="16, rue porte de Bourges" cp="18200" ville="St-Amand-Montrond" email="02 36 40 91 57" web="http://mspm.fr/" %}
 
+{: .mb-5}
+
 ## Présentation
+
+{: .mb-5}
+
 THE NUMBER ONE BESTSELLER 'Writing about yourself is a funny business...But in a project like this, the writer has made one promise, to show the reader his mind. In these pages, I've tried to do this.' -Bruce Springsteen, from the pages of Born to Run In 2009, Bruce Springsteen and the E Street Band performed at the Super Bowl's halftime show. 
 
 The experience was so exhilarating that Bruce decided to write about it. That's how this extraordinary autobiography began. Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humour and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger and darkness that fuelled his imagination, leading up to the moment he refers to as 'The Big Bang': seeing Elvis Presley's debut on The Ed Sullivan Show. 

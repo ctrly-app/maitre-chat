@@ -8,8 +8,8 @@ tags: alternatives
 description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
 departement: Isère
 code_postal: 38
-latitude: 45.331967
-longitude: 5.4865278
+latitude: 44.815194
+longitude: 4.3986525
 ---
 
 {% include box.html image="atelier-paysan.png" nom="La Vallée Suspendue" adresse="" cp="" ville="Ardeche (07)" email="contact@lavalleesuspendue.org" web="https://lavalleesuspendue.org/" %}
