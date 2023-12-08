@@ -5,7 +5,7 @@ date:   2023-12-01 17:16:49 +0100
 author: "maitre-chat"
 img: eaux-secours.png
 tags: ecologie
-description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
+description: "Eaux Secours Agissons est une association locale qui a vu le jour en août 2022 en réaction au projet titanesque et écocide de Pure Salmon à Verdon-sur-Mer (33). Face à l'ignominie de ce projet industrielle d'envergure, un groupe de citoyens a décidé de fonder cette association afin de faire valoir ses revendications écologiques de protection de la nature. Cette association s'est donné pour mission de protéger les ressources en eaux, les milieux naturels et le vivant, mais aussi d’informer et sensibiliser le grand public à ces sujets. "
 departement: Val-de-Marne
 code_postal: 94
 latitude: 48.79624938964844
@@ -20,65 +20,41 @@ longitude: 2.5335347652435303
 
 {: .mb-5}
 
-THE NUMBER ONE BESTSELLER 'Writing about yourself is a funny business...But in a project like this, the writer has made one promise, to show the reader his mind. In these pages, I've tried to do this.' -Bruce Springsteen, from the pages of Born to Run In 2009, Bruce Springsteen and the E Street Band performed at the Super Bowl's halftime show. 
+Eaux Secours Agissons est une association locale qui a vu le jour en août 2022 en réaction au projet titanesque et écocide de Pure Salmon à Verdon-sur-Mer (33). Face à l'ignominie de ce projet industrielle d'envergure, un groupe de citoyens a décidé de fonder cette association afin de faire valoir ses revendications écologiques de protection de la nature. Cette association s'est donné pour mission de protéger les ressources en eaux, les milieux naturels et le vivant, mais aussi d’informer et sensibiliser le grand public à ces sujets. 
 
-The experience was so exhilarating that Bruce decided to write about it. That's how this extraordinary autobiography began. Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humour and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger and darkness that fuelled his imagination, leading up to the moment he refers to as 'The Big Bang': seeing Elvis Presley's debut on The Ed Sullivan Show. 
+Le projet Pure Salmon est la création d'une usine d'élevage intensif de saumon en plein coeur d'une réserve naturelle protégée au bord de la Gironde. C'est une usine immense qui va s'implanter sur cet espace naturel avec 15m de haut, 24 bassins (soit l'équivalent du volume de 80 piscines olympiques de 2 m de profondeur) mais aussi avec des stations d'abattage, de transformation, d'épuration, de stockage de boues fécales de l'ordre de 30 tonnes par jour sur 7,5 hectares​​ (les travaux sont prévus sur 3 ans). 
 
-He vividly recounts his relentless drive to become a musician, his early days as a bar band king in Asbury Park, and the rise of the E Street Band. With disarming candour, he also tells for the first time the story of the personal struggles that inspired his best work, and shows us why the song 'Born to Run' reveals more than we previously realized. Born to Run will be revelatory for anyone who has ever enjoyed Bruce Springsteen, but this book is much more than a legendary rock star's memoir. 
+Cette ferme intensive est un projet expérimental qui aujourd'hui n'a pas encore fait ses preuves et qui a déjà été refusé dans d'autres régions de France. Les ambitions économiques et les engagements écologiques exprimés par l'entreprise sont très questionnables. Eaux Secours Agissons a enquêté et à réussi à fournir un très grand nombre de contre-arguments alertant sur la dangerosité de cette usine tant d'un point de vue écologique qu'économique. 
 
-This is a book for workers and dreamers, parents and children, lovers and loners, artists, freaks or anyone who has ever wanted to be baptized in the holy river of rock and roll. Rarely has a performer told his own story with such force and sweep. Like many of his songs ('Thunder Road', 'Badlands', 'Darkness on the Edge of Town', 'The River', 'Born in the U.S.A.', 'The Rising', and 'The Ghost of Tom Joad', to name just a few), Bruce Springsteen's autobiography is written with the lyricism of a singular songwriter and the wisdom of a man who has thought deeply about his experiences.
+De plus, l'association ayant tenté de faire valoir sa voix et ses arguments s'est vu attaquée par Pure Salmon alors qu'elle exerçait ses droits, la procédure judiciaire est toujours en cours à l'heure où est rédigé cet article. Il y a urgence à les soutenir ! 
 
-## La bonne nouvelle ? les paysannes et paysans innovent déjà !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus.
 
-### 1 - Recenser et développer des alternatives en agro-équipement :
-- Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros
-- Quisque sit amet odio ac mi lobortis semper et ac est
-- Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero
-
-### 2 - Mener la "bataille culturelle" par une approche d'éducation populaire :
-- Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-- Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet
-
-### 3 - Exercer un rapport de force pour sortir de l'impuissance :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis
-
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
-
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus. Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros. Quisque sit amet odio ac mi lobortis semper et ac est. Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero. Suspendisse sit amet ex non augue malesuada convallis.
-
-Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante. Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut. In quis tristique odio. Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet. In ac leo vitae risus bibendum mollis.
-
-Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis.
-
-## La bonne nouvelle ? les paysannes et paysans innovent déjà !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus.
-
-### 1 - Recenser et développer des alternatives en agro-équipement :
-- Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros
-- Quisque sit amet odio ac mi lobortis semper et ac est
-- Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero
-
-### 2 - Mener la "bataille culturelle" par une approche d'éducation populaire :
-- Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-- Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet
-
-### 3 - Exercer un rapport de force pour sortir de l'impuissance :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis
 
 {% capture phares %}
-### 1 - Plans et tutoriels en accès libre :
-- Quisque sit amet odio ac mi lobortis semper et ac est
+### 1 - Signer les pétitions
+L'association se bat au niveau européen pour faire entendre sa voix. Il existe aujourd'hui deux pétitions : 
+- "Pour l'abandon du projet d'élevage intensif terrestre de saumons au Verdon-sur-Mer !" sur change.org :
+<a href="https://www.change.org/p/pour-l-abandon-du-projet-d-%C3%A9levage-intensif-terrestre-de-saumons-par-pure-salmon" target="_blank">Cliquez ici ></a>
 
-### 2 - formations :
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
 
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
+- Une réquête est en cours auprès de la Commission Européenne :
+<a href="https://nonpuresalmon33.wixsite.com/requete-ue" target="_blank">Signez ici ></a>
 
-### 3 - Recencer les initiatives paysannes :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. 
+### 2 - faire un don
+Pour  soutenir l’association n'hésitez pas à faire un don, petits ou gros, toutes les donations se valent :
+<a href="https://www.helloasso.com/associations/eaux-secours-agissons/formulaires/1" target="_blank">Cliquez ici ></a>
+
+### 3 - Rejoignez-les
+L'association a besoin de soutien de personnes engagées prête à porter main forte, n'hésitez pas à les rejoindre en tant que bénévole :
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfVCwAzoTYpyy-ehxepxawLnP0ir328jyf95gUVKP96na9ISQ/viewform" target="_blank">Adhérer ></a>
+
+### 3 - Suivez-les
+<a href="https://www.instagram.com/eauxsecoursagissons/" target="_blank">Instagram</a>
+
+<a href="https://www.facebook.com/people/Eaux-Secours-Agissons/100085357526774/" target="_blank">Facebook</a>
+
+<a href="https://twitter.com/EauxSecoursA" target="_blank">X</a>
+
 {% endcapture %}
 
-{% include phares.html titre="MDRLOL PUTAIN ENORME" content=phares %}
+{% include phares.html titre="Soutenez-les" content=phares %}
