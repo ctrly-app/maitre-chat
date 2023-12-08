@@ -8,8 +8,8 @@ tags: alternatives
 description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
 departement: Isère
 code_postal: 38
-latitude: 45.331967
-longitude: 5.4865278
+latitude: 43.984923
+longitude: 5.7311535
 ---
 
 {% include box.html image="atelier-paysan.png" nom="Longo Maï" adresse="" cp="04300" ville="Limans" email="info@prolongomai.ch" web="www.prolongomaif.ch

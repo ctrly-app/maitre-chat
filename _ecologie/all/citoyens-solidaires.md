@@ -14,7 +14,12 @@ longitude: 3.0662496
 
 {% include box.html image="citoyens-solidaires.png" nom="Citoyens Solidaires" adresse="8, rue du Lion d’Or" cp="59126" ville="Linselles" email="contact@citoyens-solidaires.fr" web="https://citoyens-solidaires.fr" %}
 
+{: .mb-5}
+
 ## Présentation
+
+{: .mb-5}
+
 THE NUMBER ONE BESTSELLER 'Writing about yourself is a funny business...But in a project like this, the writer has made one promise, to show the reader his mind. In these pages, I've tried to do this.' -Bruce Springsteen, from the pages of Born to Run In 2009, Bruce Springsteen and the E Street Band performed at the Super Bowl's halftime show. 
 
 The experience was so exhilarating that Bruce decided to write about it. That's how this extraordinary autobiography began. Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humour and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger and darkness that fuelled his imagination, leading up to the moment he refers to as 'The Big Bang': seeing Elvis Presley's debut on The Ed Sullivan Show. 

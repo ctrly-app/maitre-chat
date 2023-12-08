@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Surging Seas"
-date:   2016-10-27 19:16:49 +0100
+date:   2023-12-01 18:16:49 +0100
 author: "maitre-chat"
 img: surging-seas.png
 tags: ecologie
-description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
+description: "Surging Seas est un excellent projet qui permet de mesurer la montée des eaux sur les années et décennies à venir à l'échelle internationale ! Comme nous le savons, le réchauffement climatique va avoir un impact direct sur l'augmentation du niveau de la mer, cet outil permet donc de mesurer visuellement son impact sur les territoires! Indiquez votre adresse, choisissez l'échelle de montée des eaux et observez ! C'est impressionnant...et inquiétant."
 departement: Princeton
 code_postal: US
 latitude: 40.3492744
@@ -14,66 +14,24 @@ longitude: -74.6592958
 
 {% include box.html image="surging-seas.png" nom="Surging Seas" adresse="One Palmer Square, Suite 402" cp="NJ 08542" ville="Princeton" email="slr-contact@climatecentral.org" web="https://ss2.climatecentral.org/" %}
 
+{: .mb-5}
+
 ## Présentation
-THE NUMBER ONE BESTSELLER 'Writing about yourself is a funny business...But in a project like this, the writer has made one promise, to show the reader his mind. In these pages, I've tried to do this.' -Bruce Springsteen, from the pages of Born to Run In 2009, Bruce Springsteen and the E Street Band performed at the Super Bowl's halftime show. 
 
-The experience was so exhilarating that Bruce decided to write about it. That's how this extraordinary autobiography began. Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humour and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger and darkness that fuelled his imagination, leading up to the moment he refers to as 'The Big Bang': seeing Elvis Presley's debut on The Ed Sullivan Show. 
+{: .mb-5}
 
-He vividly recounts his relentless drive to become a musician, his early days as a bar band king in Asbury Park, and the rise of the E Street Band. With disarming candour, he also tells for the first time the story of the personal struggles that inspired his best work, and shows us why the song 'Born to Run' reveals more than we previously realized. Born to Run will be revelatory for anyone who has ever enjoyed Bruce Springsteen, but this book is much more than a legendary rock star's memoir. 
+Surging Seas est un excellent projet qui permet de mesurer la montée des eaux sur les années et décennies à venir à l'échelle internationale ! Comme nous le savons, le réchauffement climatique va avoir un impact direct sur l'augmentation du niveau de la mer, cet outil permet donc de mesurer visuellement son impact sur les territoires! Indiquez votre adresse, choisissez l'échelle de montée des eaux et observez ! C'est impressionnant...et inquiétant.
 
-This is a book for workers and dreamers, parents and children, lovers and loners, artists, freaks or anyone who has ever wanted to be baptized in the holy river of rock and roll. Rarely has a performer told his own story with such force and sweep. Like many of his songs ('Thunder Road', 'Badlands', 'Darkness on the Edge of Town', 'The River', 'Born in the U.S.A.', 'The Rising', and 'The Ghost of Tom Joad', to name just a few), Bruce Springsteen's autobiography is written with the lyricism of a singular songwriter and the wisdom of a man who has thought deeply about his experiences.
+Le programme de Climate Central sur l’élévation du niveau de la mer s’efforce de fournir des informations précises, claires et granulaires sur l’élévation du niveau de la mer et les risques d’inondations côtières, tant au niveau local que mondial, aujourd’hui et demain. Ancré dans une recherche primaire rigoureuse, ce travail se distingue par des cartes et outils facile d'utilisation, des ensembles de données étendus et une présentation visuelle de haute qualité. Le programme consacre ses efforts à aider les citoyens, les communautés, les entreprises, les organisations et les gouvernements à tous les niveaux à comprendre les conséquences de la montée des eaux du fait du réchauffement climatique sur nos existences, aujourd'hui et demain. 
 
-## La bonne nouvelle ? les paysannes et paysans innovent déjà !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus.
+- Visualisez les menaces liées à l'élévation du niveau de la mer et aux ondes de tempête
+- Analyser les populations et les infrastructures potentiellement affectées
+- Obtenez des téléchargements de données et des widgets intégrables
 
-### 1 - Recenser et développer des alternatives en agro-équipement :
-- Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros
-- Quisque sit amet odio ac mi lobortis semper et ac est
-- Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero
+Pendant plusieurs années, Ils ont travaillé avec Climate Central et New American Media pour visualiser l'impact de l'élévation du niveau de la mer sur les résidents, les infrastructures et les propriétés côtières. La carte des zones à risque combine les données de recensement avec des projections d'altitude pour créer une carte interactive d'impact pour divers scénarios futurs. Des localités individuelles peuvent être visualisées en haute résolution pour montrer un impact spécifique sur une petite zone, ou des régions peuvent être visualisées pour identifier les districts d'une région qui sont menacés d'inondations futures. Les données peuvent ensuite être isolées pour analyser des impacts et des vulnérabilités plus spécifiques au sein d’une juridiction.
 
-### 2 - Mener la "bataille culturelle" par une approche d'éducation populaire :
-- Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-- Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet
+il n'y a rien de plus à dire, allez y jeter un oeil...une carte interactive (créé par des données scientifiques fiables) parle d'elle même. 
 
-### 3 - Exercer un rapport de force pour sortir de l'impuissance :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis
 
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
+{% include images2.html image1="surging-seas-map1.png" alt1="" image2="surging-seas-map2.png" alt2="" %}
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus. Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros. Quisque sit amet odio ac mi lobortis semper et ac est. Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero. Suspendisse sit amet ex non augue malesuada convallis.
-
-Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante. Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut. In quis tristique odio. Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet. In ac leo vitae risus bibendum mollis.
-
-Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis.
-
-## La bonne nouvelle ? les paysannes et paysans innovent déjà !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus.
-
-### 1 - Recenser et développer des alternatives en agro-équipement :
-- Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros
-- Quisque sit amet odio ac mi lobortis semper et ac est
-- Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero
-
-### 2 - Mener la "bataille culturelle" par une approche d'éducation populaire :
-- Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-- Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet
-
-### 3 - Exercer un rapport de force pour sortir de l'impuissance :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis
-
-{% capture phares %}
-### 1 - Plans et tutoriels en accès libre :
-- Quisque sit amet odio ac mi lobortis semper et ac est
-
-### 2 - formations :
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
-
-### 3 - Recencer les initiatives paysannes :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. 
-{% endcapture %}
-
-{% include phares.html titre="MDRLOL PUTAIN ENORME" content=phares %}
