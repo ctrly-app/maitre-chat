@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Semences Paysannes"
-date:   2016-10-27 19:16:49 +0100
+date:   2023-12-01 19:16:49 +0100
 author: "maitre-chat"
 img: semences-paysannes-vignette.png
 tags: ecologie
-description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
+description: "Le Réseau Semences Paysannes1 (RSP) est un collectif français, né en 2003, impliqué dans la promotion de l'agriculture biologique et paysanne et en particulier dans la diffusion des savoir-faire et des pratiques agricoles dans le cadre de la production de semences paysannes biologiques. L'association regroupe aujourd'hui plus de 70 organisations, toutes impliquées dans des initiatives de promotion et de défense de la biodiversité. Outre la coordination et la consolidation des initiatives locales, le Réseau Semences Paysannes travaille à la promotion de modes de gestion collectifs et de protection des semences paysannes, ainsi qu'à la reconnaissance scientifique et juridique des pratiques paysannes de production et d'échange de semences et de plants."
 departement: Lot-et-Garonne
 code_postal: 47
 latitude: 44.3020797
@@ -14,66 +14,38 @@ longitude: 0.3381414
 
 {% include box.html image="semences-paysannes.png" nom="Semences Paysannes" adresse="10, Place Clémenceau " cp="47190" ville="AIGUILLON" email="contact@semencespaysannes.org" web="https://www.semencespaysannes.org/" %}
 
+{: .mb-5}
+
 ## Présentation
-THE NUMBER ONE BESTSELLER 'Writing about yourself is a funny business...But in a project like this, the writer has made one promise, to show the reader his mind. In these pages, I've tried to do this.' -Bruce Springsteen, from the pages of Born to Run In 2009, Bruce Springsteen and the E Street Band performed at the Super Bowl's halftime show. 
 
-The experience was so exhilarating that Bruce decided to write about it. That's how this extraordinary autobiography began. Over the past seven years, Bruce Springsteen has privately devoted himself to writing the story of his life, bringing to these pages the same honesty, humour and originality found in his songs. He describes growing up Catholic in Freehold, New Jersey, amid the poetry, danger and darkness that fuelled his imagination, leading up to the moment he refers to as 'The Big Bang': seeing Elvis Presley's debut on The Ed Sullivan Show. 
+{: .mb-5}
 
-He vividly recounts his relentless drive to become a musician, his early days as a bar band king in Asbury Park, and the rise of the E Street Band. With disarming candour, he also tells for the first time the story of the personal struggles that inspired his best work, and shows us why the song 'Born to Run' reveals more than we previously realized. Born to Run will be revelatory for anyone who has ever enjoyed Bruce Springsteen, but this book is much more than a legendary rock star's memoir. 
+Le Réseau Semences Paysannes1 (RSP) est un collectif français, né en 2003, impliqué dans la promotion de l'agriculture biologique et paysanne et en particulier dans la diffusion des savoir-faire et des pratiques agricoles dans le cadre de la production de semences paysannes biologiques. L'association regroupe aujourd'hui plus de 70 organisations, toutes impliquées dans des initiatives de promotion et de défense de la biodiversité.
 
-This is a book for workers and dreamers, parents and children, lovers and loners, artists, freaks or anyone who has ever wanted to be baptized in the holy river of rock and roll. Rarely has a performer told his own story with such force and sweep. Like many of his songs ('Thunder Road', 'Badlands', 'Darkness on the Edge of Town', 'The River', 'Born in the U.S.A.', 'The Rising', and 'The Ghost of Tom Joad', to name just a few), Bruce Springsteen's autobiography is written with the lyricism of a singular songwriter and the wisdom of a man who has thought deeply about his experiences.
+Outre la coordination et la consolidation des initiatives locales, le Réseau Semences Paysannes travaille à la promotion de modes de gestion collectifs et de protection des semences paysannes, ainsi qu'à la reconnaissance scientifique et juridique des pratiques paysannes de production et d'échange de semences et de plants.
 
-## La bonne nouvelle ? les paysannes et paysans innovent déjà !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus.
+Plus précisément, le Réseau Semences Paysannes oeuvre pour :
 
-### 1 - Recenser et développer des alternatives en agro-équipement :
-- Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros
-- Quisque sit amet odio ac mi lobortis semper et ac est
-- Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero
+  -  favoriser la diffusion des semences paysannes et des savoir-faire associés,
+  -  développer et promouvoir leur gestion dynamique dans les fermes et les jardins,
+  -  sensibiliser aux enjeux réglementaires et politiques en rapport avec les semences.
 
-### 2 - Mener la "bataille culturelle" par une approche d'éducation populaire :
-- Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-- Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet
+Les membres du Réseau s'engagent dans des actions de collecte, de sauvegarde, de sélection, de multiplication, de valorisation par la transformation et de diffusion des semences de blés, maïs, potagères, plantes fourragères, d'arbres fruitiers, de plantes aromatiques et médicinales...
 
-### 3 - Exercer un rapport de force pour sortir de l'impuissance :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis
+La mission du Réseau des Semenses Paysannes est primordial car aujourd'hui les semences sont en danger ! L'industrie agricole a transformé le modèle agricole historique en rendant les agriculteurs et agricultrices entièrement dépendant à eux, avec des semences stériles, mais aussi en détruisant un grand nombre de variété.
 
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
+## Les semences paysannes, c'est quoi ?
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus. Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros. Quisque sit amet odio ac mi lobortis semper et ac est. Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero. Suspendisse sit amet ex non augue malesuada convallis.
+"Les semences paysannes sont sélectionnées et reproduites par les paysans dans des champs menés en agriculture paysanne, biologique ou biodynamique. A l'opposée des semences industrielles standardisées, non reproductibles et/ou OGM, ce sont des populations de plantes diversifiées et variables, issues de méthodes de sélection et de renouvellement naturelles, et à la portée des paysans. reproductibles et non appropriables par un titre de propriété industrielle, elles se sèment et se ressèment au gré des échanges entre ceux qui les cultivent, dans le respect de droits d'usage définis par les collectifs qui les ont sélectionnés et conservées." (source : "10 mesures pour que vive les semences paysannes" du Collectif Semons la biodiversité - Septembre 2013)
 
-Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante. Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut. In quis tristique odio. Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet. In ac leo vitae risus bibendum mollis.
 
-Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis.
 
-## La bonne nouvelle ? les paysannes et paysans innovent déjà !
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse venenatis tincidunt tristique. Quisque ornare, nisi sit amet aliquam tristique, metus dolor feugiat arcu, quis bibendum dolor risus nec elit. Cras fringilla tincidunt ex ut suscipit. Praesent pharetra eros eu leo aliquet commodo. Cras quis imperdiet risus.
+## Qui compose le Réseau des Semences Paysannes ?
+Le collectif créé en 2003 est composé de nombreux acteurs et surtout d'organisations collectives sur tout le territoire, la plupart de ces collectifs sont des "Maison des Semences paysannes" organisées au niveau local qui regroupent tous les acteurs d'un secteur, paysans, jardiniers, artisans semenciers, chercheurs ou militants, afin d'échanger, de sensibiliser et de réaliser des actions et évènements.
 
-### 1 - Recenser et développer des alternatives en agro-équipement :
-- Donec placerat finibus turpis at tempus. Pellentesque vitae mi at arcu congue suscipit non vitae eros
-- Quisque sit amet odio ac mi lobortis semper et ac est
-- Nullam molestie purus sit amet malesuada pretium. Vestibulum vitae lacus ac purus vehicula viverra sit amet a libero
+Le mot « maison » symbolise ainsi un lieu d’échange et de partage où les paysans et jardiniers développent et défendent collectivement des pratiques paysannes de conservation, de sélection, et d’échanges de semences.
 
-### 2 - Mener la "bataille culturelle" par une approche d'éducation populaire :
-- Nulla tempor sit amet purus sed interdum. Pellentesque iaculis, lacus in tincidunt efficitur, justo dui scelerisque justo, in sollicitudin diam mauris in ante
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-- Vestibulum sed leo enim. Aenean nisl nibh, accumsan sit amet gravida vel, ornare eu lorem. Integer consectetur et augue vitae imperdiet
-
-### 3 - Exercer un rapport de force pour sortir de l'impuissance :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. Nulla tristique luctus magna sed dignissim. Maecenas dapibus dui nec viverra egestas. In sodales feugiat ante vel facilisis. Vestibulum tellus risus, gravida ac enim et, viverra gravida turpis
-
-{% capture phares %}
-### 1 - Plans et tutoriels en accès libre :
-- Quisque sit amet odio ac mi lobortis semper et ac est
-
-### 2 - formations :
-- Fusce dignissim libero nunc, sit amet gravida nunc iaculis ut
-
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
-
-### 3 - Recencer les initiatives paysannes :
-- Proin lacinia leo id nisl viverra imperdiet. In facilisis rhoncus libero ultrices mollis. Aliquam erat volutpat. Proin iaculis interdum elit. 
-{% endcapture %}
-
-{% include phares.html titre="MDRLOL PUTAIN ENORME" content=phares %}
+### Quelles sont les actions du Réseau des Semences Paysannes (RSP) ?
+- Des formations afin d'apprendre à développer une agriculture raisonnée et résiliente permettant de gagner en autonomie (exemple : autoproduction de semences, permaculture, reproduction potagère et des spécialisations par typologie de graine...)
+- Informer sur les ressources juridiques et légales de cette approche d'agriculture raisonnée au service des paysannes et des paysans grâce à une documentation étoffée sur leur site internet.
+- Rencontres et évènements afin de sensibiliser et de promouvoir auprès du grand public.
