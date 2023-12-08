@@ -163,7 +163,7 @@ Pour soutenir les valeurs de notre projet associatif qui défend  une certaine v
 
 ### 2 - Faire un don :
 
-Pour  soutenir l’association afin de nous permettre de maintenir notre  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi nous permettre de développer de nouveaux projets comme des  interfaces pour faciliter la documentation !
+Pour  soutenir l’association afin de leur permettre de maintenir leur  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi leur permettre de développer de nouveaux projets comme des  interfaces pour faciliter la documentation !
 
   
 <a href="https://ping.odoo.com/shop/category/dons-1" target="_blank">Cliquez ici ></a>
