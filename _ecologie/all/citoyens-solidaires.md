@@ -5,7 +5,7 @@ date:   2016-10-27 19:16:49 +0100
 author: "maitre-chat"
 img: citoyens-solidaires.png
 tags: ecologie
-description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
+description: "Citoyens Solidaires est un fond de dotation ayant pour mission de collecter et gérer des dons auprès d'acteurs de l'économie sociale et solidaire. Créé en 2010, Citoyens Solidaires est né d'une mission simple et pourtant encore trop peu visible à l'époque : aider et soutenir les initiatives économiques locales ayant des valeurs humaines et écologique mais également ayant une viabilité économique certaine, afin de se concentrer sur des projets aux valeurs communes et perennes.Au-delà de l'aide dfnancière et de la gestion facilité des donations, Citoyens Solidaires accompagne les porteurs de projet, les soutien et les aide à passer le premier cap en leur permettant de consolider des mutations pour pérenniser des emplois, une filière ou un territoire."
 departement: Nord
 code_postal: 59
 latitude: 50.7429436
@@ -20,7 +20,7 @@ longitude: 3.0662496
 
 {: .mb-5}
 
-citoyens Solidaires est un fond de dotation ayant pour mission de collecter et gérer des dons auprès d'acteurs de l'économie sociale et solidaire. Créé en 2010, Citoyens Solidaires est né d'une mission simple et pourtant encore trop peu visible à l'époque : aider et soutenir les initiatives économiques locales ayant des valeurs humaines et écologique mais également ayant une viabilité économique certaine, afin de se concentrer sur des projets aux valeurs communes et perennes.
+Citoyens Solidaires est un fond de dotation ayant pour mission de collecter et gérer des dons auprès d'acteurs de l'économie sociale et solidaire. Créé en 2010, Citoyens Solidaires est né d'une mission simple et pourtant encore trop peu visible à l'époque : aider et soutenir les initiatives économiques locales ayant des valeurs humaines et écologique mais également ayant une viabilité économique certaine, afin de se concentrer sur des projets aux valeurs communes et perennes.
 
 Sur la base de projets créateurs de valeurs sociales et économiques, Citoyens Solidaires à quatre grandes missions : 
 
@@ -32,5 +32,5 @@ Sur la base de projets créateurs de valeurs sociales et économiques, Citoyens 
 
 - Permettre à des entités économiques sur des secteurs ou territoires en difficulté de passer un cap
 
-Au-delaà de l'aide dinancière et de la gestion facilité des donations, Citoyens Solidaires accompagne les porteurs de projet, les soutien et les aide à passer le premier cap en leur permettant de consolider des mutations pour pérenniser des emplois, une filière ou un territoire. Citoyens Solidaires associe dans une mémée démarche l'accompagnement, la formation et l'aide financière adéquate pour une durée minimum de 2 ans. 
+Au-delà de l'aide dfnancière et de la gestion facilité des donations, Citoyens Solidaires accompagne les porteurs de projet, les soutien et les aide à passer le premier cap en leur permettant de consolider des mutations pour pérenniser des emplois, une filière ou un territoire. Citoyens Solidaires associe dans une même démarche l'accompagnement, la formation et l'aide financière adéquate pour une durée minimum de 2 ans. 
 
