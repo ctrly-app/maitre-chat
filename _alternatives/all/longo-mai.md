@@ -21,7 +21,7 @@ longitude: 5.7311535
 
 {: .mb-5}
 
-"La Coopérative européenne Longo Maï1 est une coopérative agricole et artisanale autogérée, internationale, d’inspiration alternative, libertaire, laïque, rurale et anticapitaliste. Fondée en 1973 à Limans (Alpes-de-Haute-Provence), elle regroupe en réseau onze coopératives en France, Allemagne, Autriche, Suisse, Ukraine, Roumanie et Costa Rica. Le nom est issu d'une formule du provençal exprimant le souhait « que ça dure » et utilisée par exemple lors des mariages : Vivo li nòvi e longo mai !, traduisible par « Que vivent les mariés, et longtemps encore ! »." (Wikipedia)
+"La Coopérative européenne Longo Maï est une coopérative agricole et artisanale autogérée, internationale, d’inspiration alternative, libertaire, laïque, rurale et anticapitaliste. Fondée en 1973 à Limans (Alpes-de-Haute-Provence), elle regroupe en réseau onze coopératives en France, Allemagne, Autriche, Suisse, Ukraine, Roumanie et Costa Rica. Le nom est issu d'une formule du provençal exprimant le souhait « que ça dure » et utilisée par exemple lors des mariages : Vivo li nòvi e longo mai !, traduisible par « Que vivent les mariés, et longtemps encore ! »." (Wikipedia)
 
 {: .mb-5}
 
