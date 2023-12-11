@@ -5,36 +5,39 @@ date:   2023-12-06 18:16:49 +0100
 author: "maitre-chat"
 img: longomai.png
 tags: alternatives
-description: "Cras non ligula rhoncus, fermentum felis sit amet, interdum mauris. Donec ut luctus metus. Praesent vel felis fermentum sapien tincidunt ultricies."
+description: "La Coopérative européenne Longo Maï1 est une coopérative agricole et artisanale autogérée, internationale, d’inspiration alternative, libertaire, laïque, rurale et anticapitaliste. Fondée en 1973 à Limans (Alpes-de-Haute-Provence), elle regroupe en réseau onze coopératives en France, Allemagne, Autriche, Suisse, Ukraine, Roumanie et Costa Rica."
 departement: Isère
 code_postal: 38
 latitude: 43.984923
 longitude: 5.7311535
 ---
 
-{% include box.html image="atelier-paysan.png" nom="Longo Maï" adresse="" cp="04300" ville="Limans" email="info@prolongomai.ch" web="www.prolongomaif.ch
+{% include box.html image="longomai.png" nom="Longo Maï" adresse="" cp="04300" ville="Limans" email="info@prolongomai.ch" web="www.prolongomaif.ch
 " %}
 
+{: .mb-5}
+
 ## Présentation
-Organisme de développement agricole et rural, nous œuvrons à la généralisation d’une agroécologie paysanne, pour un changement de modèle agricole et alimentaire radical et nécessaire. Pour cela, nous accompagnons les agriculteurs et agricultrices dans une conception ascendante, inédite et subversive de machines et de bâtiments adaptés. En remobilisant les producteurs et productrices sur les choix techniques autour de l’outil de travail des fermes, nous retrouvons collectivement une souveraineté technique, une autonomie par l’entraide et la réappropriation des savoirs et des savoir-faire, à rebours des technologies qui dépossèdent.
 
-L’avantage d’avoir créé ces outils avec l’Atelier Paysan, c’est l’autonomie sur la ferme : c’est de pouvoir soi-même réparer ses outils, d’avoir des outils qui sont complétement adaptés à sa ferme. Nathalie Urien - maraîchère en planches permanentes à Saint-Guyomard (56)
+{: .mb-5}
 
-Le modèle agricole productiviste et exportateur favorise l’utilisation de machines agricoles surpuissantes et high-tech, qui rendent l’agriculteur dépendant de l’ingénieur, du banquier, du numérique. Ces pratiques ont également un impact sur la destruction des communautés paysannes, l’environnement, l’aménagement du territoire, l’emploi rural, la santé, l’offre alimentaire. En somme, la logique « techniciste » et industrielle en agriculture affecte toute la société.
+"La Coopérative européenne Longo Maï1 est une coopérative agricole et artisanale autogérée, internationale, d’inspiration alternative, libertaire, laïque, rurale et anticapitaliste. Fondée en 1973 à Limans (Alpes-de-Haute-Provence), elle regroupe en réseau onze coopératives en France, Allemagne, Autriche, Suisse, Ukraine, Roumanie et Costa Rica. Le nom est issu d'une formule du provençal exprimant le souhait « que ça dure » et utilisée par exemple lors des mariages : Vivo li nòvi e longo mai !, traduisible par « Que vivent les mariés, et longtemps encore ! »." (Wikipedia)
 
-## La bonne nouvelle ? les paysannes et paysans innovent déjà !
-Des inventeurs et des inventeuses, qui conçoivent, expérimentent, se réapproprient leurs outils de travail. Pour les accompagner, reproduire et enrichir ces initiatives le plus largement possible, L’Atelier Paysan s’est donné depuis 2009 une triple mission de transformation sociale :
+{: .mb-5}
 
-### 1 - Recenser et développer des alternatives en agro-équipement :
-- en recensant et en diffusant librement les outils, les machines et les bâtiments, créés par ces paysans et paysannes ;
-- en accompagnant des groupes de maraîchers, éleveurs, paysan boulangers, viticulteurs, etc., pour créer des outils adaptés à leur besoin ;
-- en formant les paysans et paysannes au travail du métal et à la construction de bâtiments en bois.
 
-### 2 - Mener la "bataille culturelle" par une approche d'éducation populaire :
-- en organisant des moments d’échanges, d’apprentissage et de questionnement pour repérer et mesurer l’incidence des technologies sur les systèmes de production, la viabilité des fermes, et plus largement sur le modèle alimentaire ;
-- en s’inscrivant dans des programmes de mobilisation collective pour le développement rural avec de nombreux partenaires.
+##### Quelle origine ? 
 
-### 3 - Exercer un rapport de force pour sortir de l'impuissance :
-- en construisant un argumentaire critique face aux pratiques de suréquipement, de « gigantisme », et face aux investissements publics et privés dans les nouvelles technologies, par une activité de plaidoyer.
+{: .mb-5}
 
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
+"Dans la foulée de Mai 68, des jeunes issus des groupes étudiants et apprentis autrichiens de la ligue spartakiste, réfugiés en Suisse à la suite d'affrontements avec les groupes néonazis, se lient aux étudiants et apprentis suisses du groupe Hydra ou Hydra7. Ces deux organisations mènent de nombreuses actions militantes contre l’église, l’armée, les dictatures et en faveur des réfugiés, des luttes ouvrières, etc. Ils soutiennent, notamment, à Schirmeck les travailleurs qui veulent reprendre leur usine en autogestion. Lors d'un congrès tenu en 1972, ces jeunes urbains allemands, suisses et autrichiens décident d'expérimenter de nouvelles façons de vivre et de faire de la politique dans une région rurale dépeuplée en y fondant une communauté, « une base de survie ».(Wikipedia)
+
+En 1973, grâce à une collecte de fonds, le groupe achète un domaine de 270 ha à Limans près de Forcalquier dans les Alpes-de-Haute-Provence pour y implanter une coopérative rurale autogérée d’inspiration libertaire5. Le groupe s'inspire également de l'expérience collective qui s'est nouée dans les années 1930 autour de la figure de Jean Giono dans la même région. [...] Le fonctionnement est basé sur l’autosubsistance, la vie communautaire, les productions artisanales et agricoles, la gestion autonome et écologique de l’énergie, de l’eau, ainsi que du refus du salariat inspiré du principe communiste libertaire de la prise au tas." (Wikipedia)
+
+{: .mb-5}
+
+##### Quel fonctionnement ?
+
+{: .mb-5}
+
+"La communauté s’administre en coopérative autogérée. Tous les biens financiers sont mis en commun et il y a un rejet du salariat. Les ressources propres de la communauté sont l’élevage, la production céréalière et maraîchère, dont elle consomme une bonne partie ; elle pratique elle-même ses coupes de bois. La coopérative de Treynas a mis en place une filière complète forêt-bois, avec une scierie, menuiserie et une équipe de charpentiers. La filature de laine est alimentée par l’hydroélectricité ; la chaleur est fournie par l’énergie solaire et le bois." (Wikipedia)
