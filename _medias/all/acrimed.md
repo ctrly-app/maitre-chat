@@ -5,7 +5,7 @@ date:   2023-12-19 17:16:49 +0100
 author: "maitre-chat"
 img: acrimed.png
 tags: medias
-description: "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !"
+description: "Acrimed, qui signifie "Action-Critique-Médias", est une association à but non lucratif fondée en 1996 qui s'est donné pour mission la défense des droits à l’information et à la culture en réalisant une veille constante et critique des médias grâce à un groupe de bénévoles passionnés et engagés. L'association est composée de journalistes et salariés des médias, mais aussi de chercheurs et d'universitaires mais encore de simple usagers engagés. Profondément investie dans sa quête d'analyse et de critique des médias, Acrimed réalise des études très approfondies sur l'évolution des médias dans la société française. Acrimed, communément appelé l'Observatoire des médias" déclare viser à « mettre en commun savoirs professionnels, savoirs théoriques et savoirs militants au service d’une critique indépendante, radicale et intransigeante ». "
 departement: Paris
 code_postal: 75
 latitude: 48.87128829956055
