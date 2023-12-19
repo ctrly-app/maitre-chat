@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Acrimed"
-date:   2023-09-13 19:16:49 +0100
+date:   2023-12-19 17:16:49 +0100
 author: "maitre-chat"
 img: acrimed.png
 tags: medias
@@ -18,150 +18,59 @@ longitude: 2.3569037914276123
 
 ## Présentation
 
-**Depuis 20 ans, cette association nantaise fondée en 2004 questionne le monde numérique dans lequel nous vivons et s'est donné pour mission d'explorer cet univers avec la tête et les deux mains !**
 
-**Comment le numérique transforme-t-il notre société ? Quel est son impact sur  notre environnement, notre manière de vivre, de penser, de créer ?  Comment favoriser, dans cet univers parfois opaque, la libre circulation des idées et des savoirs-faire ?**
+Acrimed, qui signifie "Action-Critique-Médias", est une association à but non lucratif fondée en 1996 qui s'est donné pour mission la défense des droits à l’information et à la culture en réalisant une veille constante et critique des médias grâce à un groupe de bénévoles passionnés et engagés. L'association est composée de journalistes et salariés des médias, mais aussi de chercheurs et d'universitaires mais encore de simple usagers engagés. 
 
+Profondément investie dans sa quête d'analyse et de critique des médias, Acrimed réalise des études très approfondies sur l'évolution des médias dans la société française. Acrimed, communément appelé l'Observatoire des médias" déclare viser à « mettre en commun savoirs professionnels, savoirs théoriques et savoirs militants au service d’une critique indépendante, radicale et intransigeante ». 
 
+L'association foisonne de publications nombreuses et variées sur tous types de sujets. Elle publie toutes les semaines une lettre d'information faisant le focus sur les derniers sujets "sensibles" des médias et depuis octobre 2011, elle publie une revue papier trimestrielle appelée Médiacritiques. Enfin, Acrimed réalise des conférences et débats à un rythme régulier et a publié 6 ouvrages depuis sa création.
 
-
-
-PiNG contribue au **développement des compétences des professionnelles,** en exercice ou en devenir, **ainsi que des passionnées** qui œuvrent au quotidien en lien avec **les enjeux du numérique aujourd’hui et/ou qui mobilisent des usages numériques innovants.**
-
-Vous travaillez dans les **secteurs associatifs, artistiques et culturels, des tiers-lieux / fablabs, de la médiation, de l’enseignement, de l’ESS, ou de l’action publique** ?
-
-{: .mb-5}
-
-Leur intention est d'**accompagner** les bénéficiares à construire et aiguiser leurs repères, à outiller leurs pratiques (de  gestion et développement de projets, de création / fabrication et  d’animation), et à expérimenter, en compagnie d’autres personnes…**vers l’autonomie, l’action, le partage des savoirs et le développement d’une approche réflexive, dans des projets et/ou des missions individuelles ou collectives.**
-
-{: .mb-5}
-
-## Association PING : un vivier à initiatives émancipatrices
-{: .mb-5}
-
-PING mobilise **une expérience de terrain de plus de 15 ans, dans leurs ateliers à Nantes** ainsi qu'**un savoir-faire pluridisciplinaires** afin de vous proposer une offre de formation composée de **modules courts, sur des sujets aux impacts opérationnels comme prospectifs.**
-
-### 1 - Des ateliers pédagogiques :
-
-**Elle anime des  lieux ouverts à tous et à toutes pour expérimenter, réaliser des  projets, développer ses connaissances, dialoguer sur les technologies  qui nous entourent dans deux lieux : l’Atelier Partagé du Breil, et depuis 2023, Hyperlien « maison commune des cultures  numériques » !**
-
-**Cœur de l’activité de PiNG, les OPENateliers sont des temps d’échange et de pratique où les adhérent·es, encadré·es et conseillé·es par les animateur·ices, sont les bienvenu·es pour travailler, réparer, bricoler avec les équipements mis à disposition.**
-
-PING propose un large éventail d'ateliers thématiques :
-
-**>>>>  Initiation aux machines en présentiel** mais aussi en distanciel : 
-
-- découpeuse lazer
-- imprimante 3D
-- brodeuse numérique
-- micro-tour numérique
-- découpeuse vinyle
-- fraiseuse numérique de table
-- fers à souder
-
-Et encore des équipements par métier : 
-
-- bois (perceuse à colonne, défonceuse, scie radiale, scie sauteuse, scie circulaire, ponceuse, perceuse/visseuse)
-- papier (presse et petit matériel de sérigraphie)
-
-Comme vous pouvez le constater il y en a pour tous les goûts ! 
-
-Vpus pouvez réserver des machines en autonomie ou demander un accompagnement de projet (pour plus d'informations rendez-vous sur le site).
-
-**>>>>  Médiation numérique :** 
-
-Les rencontres de la médiation numérique de Nantes Métropole,  co-animées par Nantes Métropole et PiNG sont pensées comme des temps de  prise de recul et d’ouverture pour les professionnel.les de la médiation numérique , acteurs agissant au quotidien pour accompagner les  personnes dans leurs pratiques numériques.
-
-**>>>>  Fond documentaire :** 
-
-Tête chercheuse de la culture technique critique, PiNG se situe aux  confluences de nombreux réseaux, philosophies, influences et  thématiques. Afin d’ouvrir l’accès à ces ressources qui font débat  et enrichissent le travail mené par la structure, **l’association  rassemble depuis 2013 des ouvrages autour de la culture numérique au  sein d’un espace ressource installé à Hyperlien.**
-
-Le fond documentaire regroupe plus de **500 références** (référencées en ligne sur le site de ressources) Cet espace est l’endroit idéal pour approfondir vos connaissances sur  des sujets tels que l’histoire des sciences, la société et cultures  numériques, la pédagogie, l’art et le design, mais on y trouve aussi des revues, des romans et des ouvrages techniques pour découvrir la fabrication numérique, l’électronique la sérigraphie…
-
-**>>>>  Conférences, débats et lecture collectives** : 
-
-PING organise des rencontres en présentiel afin de sensibiliser, questionner et développer l'esprit critique sur les problématiques du numérique mais aussi d'échanger et débattre auprès d'un intervenant ou d'un invité.
-
-Une fois par mois, les membres de la communauté PING se réunissent autour d’un verre … et des projets ! Elles racontent leurs idées, les problèmes rencontrés, les solutions trouvées et si  besoin, demandent un coup de main ! C’est le moment pour découvrir ce  qui se passe dans l’atelier, s’inspirer et rencontrer une chouette  communauté !
+Pour terminer, l'association Acrimed est militante et engagée sur le terrain. Elle est présente avec des stands lors de nombreuses manifestations sociales, l'une des rares associations à tracter et à descendre dans la rue.
 
 
+## Quelles missions ?
 
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
+Acrimed est le mieux placé pour expliquer les objectifs de l'association, c'est pourquoi nous citons leur propre site : 
 
-{: .mb-5}
+"
+- Informer. Informer sur l’information (sur son contenu et sur les conditions de sa production), sur les médias, sur les journalismes et les journalistes, grâce à la mise en commun de savoirs théoriques, de savoirs professionnels, de savoirs militants.
 
-### 2 - Des formations professionnelles : 
+- Contester. Contester l’ordre médiatique existant, sa concentration, sa financiarisation, la marchandisation de l’information et de la culture, l’anémie du pluralisme et du débat politique, l’emprise des sondages (et des instituts qui en font commerce), les connivences, les complaisances, l’implication des entreprises médiatiques dans la contre-révolution néolibérale… Contester également celles et ceux qui dominent et perpétuent un ordre médiatique qui, en l’état, est tout sauf le pilier d’une véritable démocratie.
 
-PiNG contribue au **développement des compétences des professionnelles,** en exercice ou en devenir, **ainsi que des passionné(e)s** qui œuvrent au quotidien en lien avec **les enjeux du numérique aujourd’hui et/ou qui mobilisent des usages numériques innovants.**
+- Mobiliser. Mobiliser et se mobiliser avec toutes les forces disponibles (partis, syndicats, associations…) pour construire un véritable front de lutte à la mesure des enjeux. La question des médias est une question politique essentielle, elle doit le devenir ou le redevenir, et doit faire l’objet d’un combat politique.
 
-Vous travaillez dans les **secteurs associatifs, artistiques et culturels, des tiers-lieux / fablabs, de la médiation, de l’enseignement, de l’ESS, ou de l’action publique** ?
+- Proposer. Proposer des transformations en profondeur des médias. Si un autre monde est possible, d’autres médias le sont aussi. Et pour qu’un autre monde soit possible, d’autres médias sont nécessaires. C’est pourquoi Acrimed s’efforce d’élaborer des propositions, précises et concrètes, qui font l’objet d’un débat toujours ouvert au sein de l’association et avec nos partenaires.
 
-Notre intention est de **vous accompagner** à construire et aiguiser vos repères, à outiller vos pratiques (de  gestion et développement de projets, de création / fabrication et  d’animation), et à expérimenter, en compagnie d’autres personnes…**vers l’autonomie, l’action, le partage des savoirs et le développement d’une approche réflexive, dans vos projets et/ou vos missions.**
+"
 
-{: .mb-5}
+## Quel but ?
 
-Nous mobilisons **notre expérience de terrain de plus de 15 ans, nos ateliers à Nantes** ainsi que **les savoir-faire pluridisciplinaires** de l’équipe pour vous proposer une offre de formation composée de **modules courts, sur des sujets aux impacts opérationnels comme prospectifs.**
+" Intervenir publiquement, par tous les moyens à sa disposition, pour mettre en question la marchandisation de l’information, de la culture et du divertissement, ainsi que les dérives du journalisme quand il est assujetti aux pouvoirs politiques et financiers et quand il véhicule le prêt-à-penser de la société de marchés."
 
-Voici quelques exemples de formations : 
-
-- **Réaliser des projets avec une machine de découpe laser :** 
-
-  Au fablab, la découpe laser est un outil ludique pour apprendre à maîtriser les étapes de fabrication, pour prototyper un objet ou produire une petite série, expérimenter d’autres techniques de fabrication. Au-delà des aspects techniques, son utilisation revêt de nombreux intérêts créatifs, pédagogiques, de médiation, en lien avec la fabrication numérique.
-
-  
-
-- **Réaliser des projets avec une imprimante 3D :** 
-
-  L’impression 3D est une technique de fabrication numérique  qui permet de réaliser des objets usuels, des pièces détachées ou  encore des prototypes destinés aux essais. La réalisation de projets  avec une imprimante 3D permet une approche ludique pour apprendre à maîtriser les étapes de fabrication, pour prototyper ou produire des  objets usuels, techniques, artistiques, ludiques. Son utilisation peut  également revêtir de nombreux intérêts pédagogiques ou de médiation en  lien avec la fabrication numérique.
-
-- **Documenter des projets pour contribuer aux communs :**
 
   {: .mb-5}
 
-  Vous ou votre organisation souhaitez construire une base commune de connaissances, dans une démarche collaborative ou de transfert de  compétences ? Vous souhaitez réaliser un tutoriel sur la réalisation  d’un projet technique pour favoriser sa reproductibilité ? Vous  souhaitez mettre en forme un récit pour partager vos expériences ?  Autant de situations qui font appel à des pratiques et des outils liés à ce qu’on appelle « la documentation ». Au delà des aspects techniques  ou pratiques, documenter c’est aussi un processus créatif qui permet de  prendre du recul sur son expérience pour mieux la partager.
-
-{: .mb-5}
-
-PING propose également des parcours intermédiaires ou autonomie pour les adhérents plus habitués : 
-
-- **Parcours intermédiaire :**
-
-  Pour les adhérent·es pouvant témoigner d’une implication  significative dans la vie de l’association : participations à des  chantiers d’aménagement, coup de main, documentation de projets,  participation à des Apéro Projets ou à des Courts-Circuits, etc. Les  modalités précises d’accès à ce parcours sont encore en cours  d’élaboration. Les adhérent·es intermédiaires peuvent accéder aux  créneaux Autonomie.
-
-- **Parcours autonomie :**
-
-  {: .mb-5}
-
-  Pour les adhérent·es intermédiaires qui ont en plus passé des formations aux  premiers secours, à la prévention incendie et à l’ouverture du fablab.  Ils/elles ont donc la possibilité de proposer l’ouverture de « créneaux  autonomie ».
-
-  
-
-  {: .mb-5}
-
-### 3 - Une communauté d'acteurs engagés :
-- **Rejoignez une communauté** :
-
-  Participez aux nombreux rendez-vous récurrents pendant lequel les adhérent(e)s se présentent ainsi que leurs projets.
-
-- **Discuter en ligne avec la communauté** : 
-
-  Rejoignez les discussions thématiques (arduino, agriculture urbaine,  réparation, transition…) en cours ou créez en une sur un sujet qui vous  intéresse !
-
-- **Participez à la vie associative :**
-
-  Apportez votre aide et votre expérience dans les ateliers, en partageant vos savoirs-faire et en vous investissant dans l’association.
 
   
 
 {% capture phares %}
 ### 1 - Adhérer à l'association :
-- Pour soutenir les valeurs de notre projet associatif qui défend  une certaine vision du numérique, accéder à nos ateliers pour de la  pratique libre et tout un programme d’activité, mais aussi pour  rejoindre et faire vivre une chouette communauté !
-- De 5€ / an (tarif solidaire) à 90€ / an (plein tarif)
+- Pour soutenir Acrimed, n'hésitez pas à y adhérer car elle est un rempart face à la dégradation journalistique des médias.
+<a href="https://boutique.acrimed.org/adhesion-abonnement" target="_blank">J'adhère</a>
 
-### 2 - Faire un don :
-- Pour  soutenir l’association afin de nous permettre de maintenir notre  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi nous permettre de développer de nouveaux projets comme des  interfaces pour faciliter la documentation !
 
-  Cliquez ici >
+### 2 - S'abonner à l'association :
+- S'abonner à la revue trimestrielle
+<a href="https://www.acrimed.org/-Mediacritiques-" target="_blank">Je m'abonne</a>
+
+
+- S'inscrire à l'infolettre mensuelle : 
+<a href="https://listes.acrimed.org/sympa/subscribe/mensuel" target="_blank">Je m'inscris</a>
+
+
+### 3 - Faire un don :
+- Pour  soutenir l’association et leur permettre de diffuser et de sensibiliser au plus grand nombre, faites un don (si vous en avez les moyens) :
+<a href="https://boutique.acrimed.org/don" target="_blank">Je donne</a>
 
   {% endcapture %}
 
