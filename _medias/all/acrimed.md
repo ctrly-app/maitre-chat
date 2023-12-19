@@ -5,7 +5,7 @@ date:   2023-12-19 17:16:49 +0100
 author: "maitre-chat"
 img: acrimed.png
 tags: medias
-description: "Acrimed, qui signifie "Action-Critique-Médias", est une association à but non lucratif fondée en 1996 qui s'est donné pour mission la défense des droits à l’information et à la culture en réalisant une veille constante et critique des médias grâce à un groupe de bénévoles passionnés et engagés. L'association est composée de journalistes et salariés des médias, mais aussi de chercheurs et d'universitaires mais encore de simple usagers engagés. Profondément investie dans sa quête d'analyse et de critique des médias, Acrimed réalise des études très approfondies sur l'évolution des médias dans la société française. Acrimed, communément appelé l'Observatoire des médias" déclare viser à « mettre en commun savoirs professionnels, savoirs théoriques et savoirs militants au service d’une critique indépendante, radicale et intransigeante ». "
+description: "Acrimed, qui signifie 'Action-Critique-Médias', est une association à but non lucratif fondée en 1996 qui s'est donné pour mission la défense des droits à l’information et à la culture en réalisant une veille constante et critique des médias grâce à un groupe de bénévoles passionnés et engagés. L'association est composée de journalistes et salariés des médias, mais aussi de chercheurs et d'universitaires mais encore de simple usagers engagés. Profondément investie dans sa quête d'analyse et de critique des médias, Acrimed réalise des études très approfondies sur l'évolution des médias dans la société française. Acrimed, communément appelé l'Observatoire des médias déclare viser à « mettre en commun savoirs professionnels, savoirs théoriques et savoirs militants au service d’une critique indépendante, radicale et intransigeante »."
 departement: Paris
 code_postal: 75
 latitude: 48.87128829956055
@@ -21,7 +21,7 @@ longitude: 2.3569037914276123
 
 Acrimed, qui signifie "Action-Critique-Médias", est une association à but non lucratif fondée en 1996 qui s'est donné pour mission la défense des droits à l’information et à la culture en réalisant une veille constante et critique des médias grâce à un groupe de bénévoles passionnés et engagés. L'association est composée de journalistes et salariés des médias, mais aussi de chercheurs et d'universitaires mais encore de simple usagers engagés. 
 
-Profondément investie dans sa quête d'analyse et de critique des médias, Acrimed réalise des études très approfondies sur l'évolution des médias dans la société française. Acrimed, communément appelé l'Observatoire des médias" déclare viser à « mettre en commun savoirs professionnels, savoirs théoriques et savoirs militants au service d’une critique indépendante, radicale et intransigeante ». 
+Profondément investie dans sa quête d'analyse et de critique des médias, Acrimed réalise des études très approfondies sur l'évolution des médias dans la société française. Acrimed, communément appelé l'Observatoire des médias déclare viser à « mettre en commun savoirs professionnels, savoirs théoriques et savoirs militants au service d’une critique indépendante, radicale et intransigeante ». 
 
 L'association foisonne de publications nombreuses et variées sur tous types de sujets. Elle publie toutes les semaines une lettre d'information faisant le focus sur les derniers sujets "sensibles" des médias et depuis octobre 2011, elle publie une revue papier trimestrielle appelée Médiacritiques. Enfin, Acrimed réalise des conférences et débats à un rythme régulier et a publié 6 ouvrages depuis sa création.
 
@@ -74,4 +74,4 @@ Acrimed est le mieux placé pour expliquer les objectifs de l'association, c'est
 
   {% endcapture %}
 
-{% include phares.html titre="POUR ALLER PLUS LOIN" content=phares %}
+{% include phares.html titre="Les soutenir" content=phares %}
