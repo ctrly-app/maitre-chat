@@ -34,6 +34,6 @@ Composé d'humanistes, d'anarchistes, de révolutionnaires, de comédiens, de re
 "La rédaction souhaite donner sa place à tout projet d'écriture en précisant que si l'on a le droit de tout dire, on a aussi le devoir de ne pas dire n'importe quoi. Il est donc nécessaire pour le contributeur et le lectorat de rechercher la «factualité», de réfléchir une juste articulation entre les faits et les idées.
 Cap vers la diversité et l’altérité (donc vers la contradiction)! Venez commes vous êtes et merci d'essuyer vos pieds à l'entrée !"
 
-Abonnez-vous, à prix libre, pourquoi s'en priver !
+Abonnez-vous, à prix libre, si vous adhérez !
 
   {: .mb-5}
