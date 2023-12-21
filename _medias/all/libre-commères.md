@@ -2,7 +2,7 @@
 layout: post
 title:  "Libres Commères"
 date:   2023-09-13 19:16:49 +0100
-author: "ping"
+author: "maitre chat"
 img: libres-commeres.png
 tags: medias
 description: "Libres Commères est un journal libre comme l'air (facile et pas du tout original) ! Fondé en 2020 à Dole dans le Jura, Libres Commères se définit comme un média indépendant et associatif qui s'est donné pour mission de parler autrement, d'écrire sur des sujets et des positions qu'on n'entend pas dans les médias traditionnels. Profondément attachés aux actualités locales et à la vie politique, économique, sociale et sociétale de leur belle région, cette bande de joyeux lurons motivés et tenaces comme jamais s'expriment librement des sujets qu'ils ont à coeur d'exprimer et de partager. Libre penseur, libre militant, et libre esprit critique, telle est leur dada...libre comme l'air quoi !"
@@ -33,5 +33,7 @@ Composé d'humanistes, d'anarchistes, de révolutionnaires, de comédiens, de re
 
 "La rédaction souhaite donner sa place à tout projet d'écriture en précisant que si l'on a le droit de tout dire, on a aussi le devoir de ne pas dire n'importe quoi. Il est donc nécessaire pour le contributeur et le lectorat de rechercher la «factualité», de réfléchir une juste articulation entre les faits et les idées.
 Cap vers la diversité et l’altérité (donc vers la contradiction)! Venez commes vous êtes et merci d'essuyer vos pieds à l'entrée !"
+
+Abonnez-vous, à prix libre, pourquoi s'en priver !
 
   {: .mb-5}
