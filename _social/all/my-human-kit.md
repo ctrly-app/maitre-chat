@@ -1,168 +1,99 @@
 ---
 layout: post
 title:  "My Human Kit"
-date:   2023-09-13 19:16:49 +0100
+date:   2023-10-13 19:16:49 +0100
 author: "maitre-chat"
 img: my-human-kit.png
 tags: social
-description: "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !"
+description: "L’association My Human Kit invente, fabrique et partage des solutions d’aides techniques pour et avec des personnes en situation de handicap. Créée à Rennes en 2014 par un groupe d'amis passionés par le bricolage, l'idée émerge et voit le jour. Ces doux réveurs d'un monde meilleur lancent My Human Kit, l'aventure commence ! L’objet de l'association est d'utiliser le handicap comme levier pour fédérer des personnes autour d’un projet technique dans le but d’apprendre, de trouver des alternatives et de faire évoluer les mentalités. Motivés par cette mission talentueuse, le collectif lance en 2017 la première fablab : un 'laboratoire de fabrication numérique, dédié et à disposition, de celles et ceux ayant besoin d'un atelier pour construire/réaliser/adapter, des solutions techniques en lien avec le handicap'. "
 departement: Ille-et-Vilaine
 code_postal: 35
 latitude: 48.1280517578125
 longitude: -1.7033361196517944
 ---
 
-{% include box.html image="my-human-kit.png" nom="My Human Kit" adresse="2 avenue du Bois Labbé " cp="35000" ville="Rennes" email="\+ 33 (0) 768 328 321" web="https://myhumankit.org/" %}
+{% include box.html image="my-human-kit.png" nom="My Human Kit" adresse="2 avenue du Bois Labbé " cp="35000" ville="Rennes" email="+ 33 (0) 768 328 321" web="https://myhumankit.org/" %}
 
 {: .mb-5}
 
 ## Présentation
-
-**Depuis 20 ans, cette association nantaise fondée en 2004 questionne le monde numérique dans lequel nous vivons et s'est donné pour mission d'explorer cet univers avec la tête et les deux mains !**
-
-**Comment le numérique transforme-t-il notre société ? Quel est son impact sur  notre environnement, notre manière de vivre, de penser, de créer ?  Comment favoriser, dans cet univers parfois opaque, la libre circulation des idées et des savoirs-faire ?**
-
-
-
-
-
-PiNG contribue au **développement des compétences des professionnelles,** en exercice ou en devenir, **ainsi que des passionnées** qui œuvrent au quotidien en lien avec **les enjeux du numérique aujourd’hui et/ou qui mobilisent des usages numériques innovants.**
-
-Vous travaillez dans les **secteurs associatifs, artistiques et culturels, des tiers-lieux / fablabs, de la médiation, de l’enseignement, de l’ESS, ou de l’action publique** ?
-
-{: .mb-5}
-
-Leur intention est d'**accompagner** les bénéficiares à construire et aiguiser leurs repères, à outiller leurs pratiques (de  gestion et développement de projets, de création / fabrication et  d’animation), et à expérimenter, en compagnie d’autres personnes…**vers l’autonomie, l’action, le partage des savoirs et le développement d’une approche réflexive, dans des projets et/ou des missions individuelles ou collectives.**
-
-{: .mb-5}
-
-## Association PING : un vivier à initiatives émancipatrices
-{: .mb-5}
-
-PING mobilise **une expérience de terrain de plus de 15 ans, dans leurs ateliers à Nantes** ainsi qu'**un savoir-faire pluridisciplinaires** afin de vous proposer une offre de formation composée de **modules courts, sur des sujets aux impacts opérationnels comme prospectifs.**
-
-### 1 - Des ateliers pédagogiques :
-
-**Elle anime des  lieux ouverts à tous et à toutes pour expérimenter, réaliser des  projets, développer ses connaissances, dialoguer sur les technologies  qui nous entourent dans deux lieux : l’Atelier Partagé du Breil, et depuis 2023, Hyperlien « maison commune des cultures  numériques » !**
-
-**Cœur de l’activité de PiNG, les OPENateliers sont des temps d’échange et de pratique où les adhérent·es, encadré·es et conseillé·es par les animateur·ices, sont les bienvenu·es pour travailler, réparer, bricoler avec les équipements mis à disposition.**
-
-PING propose un large éventail d'ateliers thématiques :
-
-**>>>>  Initiation aux machines en présentiel** mais aussi en distanciel : 
-
-- découpeuse lazer
-- imprimante 3D
-- brodeuse numérique
-- micro-tour numérique
-- découpeuse vinyle
-- fraiseuse numérique de table
-- fers à souder
-
-Et encore des équipements par métier : 
-
-- bois (perceuse à colonne, défonceuse, scie radiale, scie sauteuse, scie circulaire, ponceuse, perceuse/visseuse)
-- papier (presse et petit matériel de sérigraphie)
-
-Comme vous pouvez le constater il y en a pour tous les goûts ! 
-
-Vpus pouvez réserver des machines en autonomie ou demander un accompagnement de projet (pour plus d'informations rendez-vous sur le site).
-
-**>>>>  Médiation numérique :** 
-
-Les rencontres de la médiation numérique de Nantes Métropole,  co-animées par Nantes Métropole et PiNG sont pensées comme des temps de  prise de recul et d’ouverture pour les professionnel.les de la médiation numérique , acteurs agissant au quotidien pour accompagner les  personnes dans leurs pratiques numériques.
-
-**>>>>  Fond documentaire :** 
-
-Tête chercheuse de la culture technique critique, PiNG se situe aux  confluences de nombreux réseaux, philosophies, influences et  thématiques. Afin d’ouvrir l’accès à ces ressources qui font débat  et enrichissent le travail mené par la structure, **l’association  rassemble depuis 2013 des ouvrages autour de la culture numérique au  sein d’un espace ressource installé à Hyperlien.**
-
-Le fond documentaire regroupe plus de **500 références** (référencées en ligne sur le site de ressources) Cet espace est l’endroit idéal pour approfondir vos connaissances sur  des sujets tels que l’histoire des sciences, la société et cultures  numériques, la pédagogie, l’art et le design, mais on y trouve aussi des revues, des romans et des ouvrages techniques pour découvrir la fabrication numérique, l’électronique la sérigraphie…
-
-**>>>>  Conférences, débats et lecture collectives** : 
-
-PING organise des rencontres en présentiel afin de sensibiliser, questionner et développer l'esprit critique sur les problématiques du numérique mais aussi d'échanger et débattre auprès d'un intervenant ou d'un invité.
-
-Une fois par mois, les membres de la communauté PING se réunissent autour d’un verre … et des projets ! Elles racontent leurs idées, les problèmes rencontrés, les solutions trouvées et si  besoin, demandent un coup de main ! C’est le moment pour découvrir ce  qui se passe dans l’atelier, s’inspirer et rencontrer une chouette  communauté !
-
-
-
-{% include images2.html image1="img1.png" alt1="" image2="img2.png" alt2="" %}
-
-{: .mb-5}
-
-### 2 - Des formations professionnelles : 
-
-PiNG contribue au **développement des compétences des professionnelles,** en exercice ou en devenir, **ainsi que des passionné(e)s** qui œuvrent au quotidien en lien avec **les enjeux du numérique aujourd’hui et/ou qui mobilisent des usages numériques innovants.**
-
-Vous travaillez dans les **secteurs associatifs, artistiques et culturels, des tiers-lieux / fablabs, de la médiation, de l’enseignement, de l’ESS, ou de l’action publique** ?
-
-Notre intention est de **vous accompagner** à construire et aiguiser vos repères, à outiller vos pratiques (de  gestion et développement de projets, de création / fabrication et  d’animation), et à expérimenter, en compagnie d’autres personnes…**vers l’autonomie, l’action, le partage des savoirs et le développement d’une approche réflexive, dans vos projets et/ou vos missions.**
-
-{: .mb-5}
-
-Nous mobilisons **notre expérience de terrain de plus de 15 ans, nos ateliers à Nantes** ainsi que **les savoir-faire pluridisciplinaires** de l’équipe pour vous proposer une offre de formation composée de **modules courts, sur des sujets aux impacts opérationnels comme prospectifs.**
-
-Voici quelques exemples de formations : 
-
-- **Réaliser des projets avec une machine de découpe laser :** 
-
-  Au fablab, la découpe laser est un outil ludique pour apprendre à maîtriser les étapes de fabrication, pour prototyper un objet ou produire une petite série, expérimenter d’autres techniques de fabrication. Au-delà des aspects techniques, son utilisation revêt de nombreux intérêts créatifs, pédagogiques, de médiation, en lien avec la fabrication numérique.
-
   
-
-- **Réaliser des projets avec une imprimante 3D :** 
-
-  L’impression 3D est une technique de fabrication numérique  qui permet de réaliser des objets usuels, des pièces détachées ou  encore des prototypes destinés aux essais. La réalisation de projets  avec une imprimante 3D permet une approche ludique pour apprendre à maîtriser les étapes de fabrication, pour prototyper ou produire des  objets usuels, techniques, artistiques, ludiques. Son utilisation peut  également revêtir de nombreux intérêts pédagogiques ou de médiation en  lien avec la fabrication numérique.
-
-- **Documenter des projets pour contribuer aux communs :**
-
-  {: .mb-5}
-
-  Vous ou votre organisation souhaitez construire une base commune de connaissances, dans une démarche collaborative ou de transfert de  compétences ? Vous souhaitez réaliser un tutoriel sur la réalisation  d’un projet technique pour favoriser sa reproductibilité ? Vous  souhaitez mettre en forme un récit pour partager vos expériences ?  Autant de situations qui font appel à des pratiques et des outils liés à ce qu’on appelle « la documentation ». Au delà des aspects techniques  ou pratiques, documenter c’est aussi un processus créatif qui permet de  prendre du recul sur son expérience pour mieux la partager.
+L’association My Human Kit invente, fabrique et partage des solutions d’aides techniques pour et avec des personnes en situation de handicap. Créée à Rennes en 2014 par un groupe d'amis passionés par le bricolage, l'idée émerge et voit le jour. Ces doux réveurs d'un monde meilleur lancent My Human Kit, l'aventure commence ! L’objet de l'association est d'utiliser le handicap comme levier pour fédérer des personnes autour d’un projet technique dans le but d’apprendre, de trouver des alternatives et de faire évoluer les mentalités. Motivé par cette mission ambitieuse, le collectif lance en 2017 la première fablab : un "laboratoire de fabrication numérique, dédié et à disposition, de celles et ceux ayant besoin d'un atelier pour construire/réaliser/adapter, des solutions techniques en lien avec le handicap". 
 
 {: .mb-5}
 
-PING propose également des parcours intermédiaires ou autonomie pour les adhérents plus habitués : 
+La humanlab est un atelier de conception numérique, lieu de créativité, de sociabilité et d'entraide. Les usagers de la fablab viennent d'horizons très divers (bricoleurs, makers, hackers, personnes en situation de handicap, travailleurs sociaux, thérapeutes, artistes, étudiants, demandeurs d'emplois) et c'est ce qui en fait sa richesse. Ils ont à leur disposition de l'outillage tels que des imprimantes 3D, une découpeuse laser, des outils manuels, électroniques, couture, mécanique, bois, récupération... Un lieu plus que réjouissant pour ces Mac Gyver des temps modernes !
 
-- **Parcours intermédiaire :**
+{: .mb-5}
 
-  Pour les adhérent·es pouvant témoigner d’une implication  significative dans la vie de l’association : participations à des  chantiers d’aménagement, coup de main, documentation de projets,  participation à des Apéro Projets ou à des Courts-Circuits, etc. Les  modalités précises d’accès à ce parcours sont encore en cours  d’élaboration. Les adhérent·es intermédiaires peuvent accéder aux  créneaux Autonomie.
+### >> Les missions
 
-- **Parcours autonomie :**
+My Human Kit le dit haut et fort : "En proposant de faire du handicap une source de créativité collective, MHK invite les porteurs de projets à participer à la création de leur solution. Grâce à la technologie, elle essaye d’offrir aux personnes handicapées, une autre place dans la société".
 
-  {: .mb-5}
+L’association met en oeuvre différentes actions afin de faire évoluer la perception du handicap et de la technologie : ateliers numériques, hackathons, salons, conférences… A travers ces initiatives, My Human Kit démontre que la diversité et l’intelligence collective sont essentielles à une société inclusive.
 
-  Pour les adhérent·es intermédiaires qui ont en plus passé des formations aux  premiers secours, à la prévention incendie et à l’ouverture du fablab.  Ils/elles ont donc la possibilité de proposer l’ouverture de « créneaux  autonomie ».
+- Créer : fabriquer et construire des solutions, des aides techniques et des outils aux handicapés, par et pour les personnes concernées au sein de son Humman Lab. Espace expérimental et ateliers de prototypage, ce lieu répond aux besoins d'aides techniques, jusqu'ici inaccessible et excluant pour les personnes en situation de handicap car inexistant, trop onéreux ou inesthétique. 
 
-  
+- Apprendre : toutes les créations sont libres, accessibles et gratuites pour tout le monde. Cela permet à tout un chacun de reproduire, modifier, améliorer les prototypes, et ce partout dans le monde. Réalisés sous forme de notice, ces tutoriels sont de vraies sources d'apprentissage à l'usage du bien commun. 
 
-  {: .mb-5}
+{: .mb-5}
 
-### 3 - Une communauté d'acteurs engagés :
-- **Rejoignez une communauté** :
+- Partager : il est important pour My Human Kit de promouvoir ce modèle et donc de le promouvoir et le diffuser au plus grand nombre. Pour cela, l'association anime un réseau et accompagne différentes structures pour la création de leur propre Humanlab en France et à l'international. Depuis de nombreuses autres structures ont vu le jour ! 
 
-  Participez aux nombreux rendez-vous récurrents pendant lequel les adhérent(e)s se présentent ainsi que leurs projets.
+{: .mb-5}
 
-- **Discuter en ligne avec la communauté** : 
 
-  Rejoignez les discussions thématiques (arduino, agriculture urbaine,  réparation, transition…) en cours ou créez en une sur un sujet qui vous  intéresse !
+### >> Les actions
 
-- **Participez à la vie associative :**
 
-  Apportez votre aide et votre expérience dans les ateliers, en partageant vos savoirs-faire et en vous investissant dans l’association.
+- Bionicohand : Le projet Bionicohand consiste en l’invention d’une prothèse de main “générique” à réparer soi-même (ou avec les autres). L’intelligence collective, l’innovation frugale, l’open source et les coopérations sont les moteurs qui permettent à la fois, de faire avancer les recherches afin de créer des supports techniques éducatifs et de valoriser des métiers, tout en impliquant les personnes concernées.
 
-  
+- Wikilab : une plateforme libre comprenant l'ensemble des ressources et outils numériques pour la création/fabrication numérique des aides techniques au handicap.
+
+- Atelier Mobilab : un beau projet pour la fabrication sur-mesure d’une roue motorisée pour fauteuil roulant manuel. Les ateliers Mobilab sont à destination de personnes souhaitant apprendre collectivement à se fabriquer leur prototype d’aide à la mobilité à partir de “déchets”. Effectivement, les pièces mécaniques proviennent de vélos récupérés et les composants électriques de vélos issu du réemploi (ne pouvant être reconditionné). La carte électronique est le seul élément acheté neuf.
+
+- Projet "Education Handicap Numérique" : l'objectif est de faire travailler ensemble collégiens et adolescents en situations de handicap et de les accompagner dans le développement de leur projet.
+
+{: .mb-5}
+
+- Fabrikarium :  atelier de prototypage organisé avec un partenaire, souvent une entreprise, dans le but d’accélérer les projets d’aides techniques. Il rassemble 10 personnes par équipes qui vont durant un temps donné, souvent 3 jourss, inventer des solutions et les documenter (sans compétition).
+
+{: .mb-5}
+
+
+### >> L'histoire
+
+###### Bionicohand
+
+" C'est le nom d'un projet de prothèse de main bionique à fabriquer soi-même. Quand le handicap rencontre la technologie, cela donne parfois des idées originales. Tout a commencé, le jour où une personne amputée vit pour la première fois une imprimante 3D. Elle se demanda s'il était possible d'imprimer une main.
+Appareillé d’une prothèse myoélectrique, Nicolas Huchet découvre la fabrication numérique au Labfab EESAB à Rennes. Une troupe de quelques bénévoles se constitue autour de son projet baptisé Bionicohand. 
+
+La recette ? 
+
+Prenez les plans d'une main open source sur internet, ajoutez y 30 heures d'impression 3D + 1 carte électronique programmable + 2 capteurs musculaires bon marché + 8 piles. Agrémentez le tout de visserie, scotch, fil de pêche, élastiques et d'un peu de blanco sur les ongles. Laissez mijoter une centaines d'heures pour le montage. Vous obtenez une main robotique imprimée en 3D contrôlée par un amputé. Prix 200 € ! Ce prototype de main bionique "Do It Yourself" à trois francs six sous (200 € contre 20.000 sur le marché) est réalisé par des "apprentis makers" et présenté pour la première fois à Rennes lors de “Tu Imagines ? Construits !”.  
+
+{: .mb-5}
+
+Repéré à cette occasion par la scène européenne des makers, l'équipe est invitée à la Maker Faire Rome, un rassemblement de génies et bidouilleurs en tout genre. Le projet prend une envergure internationale et reçoit plusieurs distinctions. Nicolas, sans réel emploi, en quête de voyage et de sens est ravi de cette nouvelle vie de troubadour numérique dans laquelle, il assemble technologie, partage et utilité sociale. Le succès grandissant, il a parfois du mal à accepter cette nouvelle image que les médias mettent en avant : l'histoire d'un handicapé "héros" s'étant fabriqué sa propre prothèse en 3D, tout en oubliant l'intelligence collective. Cela dit, il développe de nouvelles compétences techniques et sociales, trouve confiance et ne subit plus son handicap : il l'explore !! Certes, si le défi technologique est mis au premier plan, c'est surtout socialement et psychologiquement que les conséquences sont les plus positives."
+
+
+###### Des convictions fortes et engagées
+
+"Il faut déposer un brevet, créer une boîte, une startup pour vendre des prothèses 100 fois moins chère !" conseillent de nombreux experts en tout genre. L'idée de vendre un maximum, pour gagner beaucoup, n'anime pas vraiment Nicolas, d'autant que ce prototype sortit d'un garage, est encore loin d'un produit commercialisable. Au commencement, le petit groupe de bénévoles (constitué de bricoleurs mais aussi collègues et voisins), prend l'habitude de se retrouver dans les fablabs Rennais et le vendredi soir, dans le sous sol d'une maison. Ces soirées (parfois arrosées) permettent des temps d'échanges, de bavardages, où la parole libre permet à chacun d'exprimer ses rêves. Un soir de "fin de veillée" au "QG" de Saint-Didier (35), est inventé le concept d'handicapowerment : quand le handicap permet de se mettre en capacité d’agir. Ce, sans se douter que ce terme sera relayé plus tard dans les médias.
+
+{: .mb-5}
+
+Si la vie de Nicolas a changée, c'est également le cas pour les personnes autour de lui qui développent une autre perception du handicap. Tout ce petit monde s'accorde à dire que le handicap peut-être une clé de voute, un moyen de fédérer. Que cette histoire peut se répéter avec d'autres personnes concernées par le handicap et qui seraient elles-mêmes impliquées dans un projet, qui les concerne. Tout le monde à des problèmes mais parfois, en faisant de son problème une solution, on peut y trouver de la motivation. C'est avec cette philosophie qu'est créé une association, dénommé My Human Kit qui désigne le fait de fabriquer MON aide technique au handicap.  L’objet de l'association est d'utiliser le handicap comme levier pour fédérer des personnes autour d’un projet technique dans le but d’apprendre, de trouver des alternatives et faire évoluer les mentalités."
+
 
 {% capture phares %}
-### 1 - Adhérer à l'association :
-- Pour soutenir les valeurs de notre projet associatif qui défend  une certaine vision du numérique, accéder à nos ateliers pour de la  pratique libre et tout un programme d’activité, mais aussi pour  rejoindre et faire vivre une chouette communauté !
-- De 5€ / an (tarif solidaire) à 90€ / an (plein tarif)
+### 1 - Rejoignez-les :
+- Pour soutenir My Human Kit, n'hésitez pas à les contacter : <a href="https://myhumankit.org/participer/" target="_blank">Je rejoins</a>
+
 
 ### 2 - Faire un don :
-- Pour  soutenir l’association afin de nous permettre de maintenir notre  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi nous permettre de développer de nouveaux projets comme des  interfaces pour faciliter la documentation !
-
-  Cliquez ici >
+- Si ce projet vous plait, n'hésitez plus, même la plus petite contribution est toujours la bienvenue : <a href="https://www.helloasso.com/associations/my-human-kit/formulaires/1" target="_blank">Je donne</a>
 
   {% endcapture %}
 
-{% include phares.html titre="POUR ALLER PLUS LOIN" content=phares %}
+{% include phares.html titre="LES SOUTENIR" content=phares %}

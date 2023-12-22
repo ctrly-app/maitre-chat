@@ -12,7 +12,7 @@ latitude: 37.7790262
 longitude: -122.419906
 ---
 
-{% include box.html image="open-insulin-foundation.png" nom="Open Insulin Foundation" adresse="" cp="US" ville="Bay Area, California" email="" web="https://fr.openinsulin.org/" %}
+{% include box.html image="open-insulin-foundation.png" nom="Open Insulin Foundation" adresse="" cp="US" ville="San Francisco Bay Area, California" email="" web="https://fr.openinsulin.org/" %}
 
 {: .mb-5}
 ### Présentation
