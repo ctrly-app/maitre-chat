@@ -5,7 +5,7 @@ date:   2023-12-01 19:16:49 +0100
 author: "maitre-chat"
 img: faire-et-co.png
 tags: social
-description: "Faire & co, une association créée en 2017, est ce qu'on appelle unn Humanlab de proximité, implanté en Vendée. Une human lab pour ceux qui ne connaissent pas est un laboratoire de fabrication numérique (fablab), un lieu de sociabilité, d’entraide et de créativité dédié à la réalisation d’aides techniques aux handicaps. La mission de Faire & co est d'être un lieu d'entraide et de créativité à destination et à l'écoute des personnes en situation de handicap afin de leur offrir la possibilité de co-construire des aides techniques sur mesure à moindre coût."
+description: "Faire & co, une association créée en 2017, est ce qu'on appelle une Humanlab de proximité, implanté en Vendée. Une human lab pour ceux qui ne connaissent pas est un laboratoire de fabrication numérique (fablab), un lieu de sociabilité, d’entraide et de créativité dédié à la réalisation d’aides techniques aux handicaps. La mission de Faire & co est d'être un lieu d'entraide et de créativité à destination et à l'écoute des personnes en situation de handicap afin de leur offrir la possibilité de co-construire des aides techniques sur mesure à moindre coût."
 departement: Vendée
 code_postal: 85
 latitude: 46.7693833
