@@ -10,6 +10,7 @@ departement: Loire-Atlantique
 code_postal: 44
 latitude: 47.2060965
 longitude: -1.559618
+web: "https://info.pingbase.net/"
 ---
 
 {% include box.html image="ping.jpg" nom="PiNG" adresse="5 allée Frida Kahlo - Halles 1&2" cp="44200" ville="Nantes" email="info@pingbase.net" web="https://info.pingbase.net/" %}

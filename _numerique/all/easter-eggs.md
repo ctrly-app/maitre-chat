@@ -10,6 +10,7 @@ departement: Paris
 code_postal: 75
 latitude: 48.8367592
 longitude: 2.3207375
+web: "https://www.easter-eggs.com/"
 ---
 
 {% include box.html image="easter-eggs.png" nom="Easter Eggs" adresse="44/46, rue de l'Ouest" cp="75014" ville="Paris" email="[+33 1 43 35 00 37](tel:+33143350037) " web="https://www.easter-eggs.com/" %}

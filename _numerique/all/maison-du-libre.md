@@ -10,6 +10,7 @@ departement: Loire-Atlantique
 code_postal: 44
 latitude: 47.21765
 longitude: -1.64841
+web: "https://www.alamaisondulibre.org/"
 ---
 
 {% include box.html image="maison-du-libre.png" nom="La maison du libre" adresse="54 avenue des plantes" cp="44800" ville="Saint-Herblain" email="Formulaire de contact" web="https://www.alamaisondulibre.org/" %}

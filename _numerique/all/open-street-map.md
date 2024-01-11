@@ -10,6 +10,7 @@ departement: Monde
 code_postal: NR
 latitude: 52.5310214
 longitude: -1.2649062
+web: "https://www.openstreetmap.org/"
 ---
 
 {% include box.html image="open-street-map.png" nom="Open Street Map" adresse="" cp="" ville="" email="Formulaire de contact" web="https://www.openstreetmap.org/" %}

@@ -10,6 +10,7 @@ departement: Paris
 code_postal: 75
 latitude: 48.8698863
 longitude: 2.3019314
+web: "https://librezo.fr/"
 ---
 
 {% include box.html image="librezo.png" nom="Librezo" adresse="60 rue François Ier" cp="75008" ville="Paris" email="0782306653" web="https://librezo.fr/" %}

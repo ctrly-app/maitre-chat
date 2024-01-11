@@ -10,6 +10,7 @@ departement: Indre-et-Loire
 code_postal: 37
 latitude: 47.3931929
 longitude: 0.6691059
+web: "https://www.lafun.fr/"
 ---
 
 {% include box.html image="la-fun.png" nom="La Fun" adresse="49 boulevard Preuilly" cp="37000" ville="Tours" email="association@lafun.fr" web="https://www.lafun.fr/" %}
