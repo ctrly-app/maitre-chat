@@ -13,7 +13,8 @@ hidden: true
 
 <div class="row justify-content-md-center mt-4">
     <div class="col-md-6 col-12">
-        <p class="text-center">Retrouvez la <span class="is-text-primary">carte intéractive</span> de toutes les
+        <p class="center-to-justify px-1">Retrouvez la <span class="is-text-primary">carte intéractive</span> de toutes
+            les
             initiatives sélectionnées par nos soins, de
             France et de Navarre. Cet annuaire regroupe <span class="is-text-primary">tous les projets libres, engagés,
                 et militants portés sur
@@ -28,8 +29,8 @@ hidden: true
     </div>
 </div>
 
-<p class="is-text-primary text-uppercase fw-bold">filtre par typologie :</p>
-<div class="row">
+<p class="is-text-primary text-uppercase fw-bold px-1">filtre par typologie :</p>
+<div class="row px-1">
     {% for my_page in site.pages %}
     {% if my_page.title and my_page.autogen == nil and my_page.hidden == false %}
     <div class="col-md-2 col-6">

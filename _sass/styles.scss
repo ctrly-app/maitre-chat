@@ -84,3 +84,13 @@ nav .nav-link.show {
         margin-left: 2rem;
     }
 }
+
+.center-to-justify {
+    text-align: justify;
+}
+
+@media (min-width: 768px) {
+    .center-to-justify {
+        text-align: center;
+    }
+}
