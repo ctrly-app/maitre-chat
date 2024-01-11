@@ -6,13 +6,13 @@
     float: right;
     border: 1px solid $primary-color;
     text-align: center;
-    margin: 10px;
+    margin: 20px;
 }
 
 @media (max-width: 576px) {
     .box {
         float: none;
         margin: 0 auto;
-        width: 80%;
+        width: 90%;
     }
 }
