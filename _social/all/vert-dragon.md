@@ -10,6 +10,7 @@ departement: Loire-Atlantique
 code_postal: 44
 latitude: 48.863071
 longitude: 2.4253232
+web: "https://www.facebook.com/verdragon"
 ---
 {% include box.html image="vert-dragon.png" nom="Vert Dragon" adresse="14 Rue de l'Épine Prolongée" cp="93170" ville="Bagnolet" email="" web="https://www.facebook.com/verdragon" %}
 

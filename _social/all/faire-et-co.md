@@ -10,6 +10,7 @@ departement: Vendée
 code_postal: 85
 latitude: 46.7693833
 longitude: -0.8403626
+web: "https://www.faire-et-co.org/"
 ---
 
 {% include box.html image="faire-et-co.png" nom="Faire et co" adresse="37 Le Chevet - La Flocellière" cp="85700" ville="Sèvremont" email="faire-et-co@pm.me" web="https://www.faire-et-co.org/" %}

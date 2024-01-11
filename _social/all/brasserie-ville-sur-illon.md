@@ -10,6 +10,7 @@ departement: Vosges
 code_postal: 88
 latitude: 48.17891
 longitude: 6.2107
+web: "https://museevosgiendelabrasserie.com/"
 ---
 
 {% include box.html image="brasserie-ville-sur-illon.png" nom="Brasserie Ville-sur-Illon" adresse="48 Rue de Mirecourt" cp="88270" ville="Ville-sur-Illon" email="museevosgiendelabrasserie@gmail.com" web="https://museevosgiendelabrasserie.com/" %}

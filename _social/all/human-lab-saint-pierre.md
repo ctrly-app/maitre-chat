@@ -10,6 +10,7 @@ departement: Hérault
 code_postal: 34
 latitude: 43.5251904
 longitude: 3.926024
+web: "https://www.humanlabsaintpierre.org/"
 ---
 
 {% include box.html image="human-lab-saint-pierre.png" nom="Human Lab Saint Pierre" adresse="3 rue Giniès Marès" cp="34250" ville="Palavas-les-Flots" email="sijobert.b@institut-st-pierre.fr" web="https://www.humanlabsaintpierre.org/" %}

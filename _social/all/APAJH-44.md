@@ -10,6 +10,7 @@ departement: Loire-Atlantique
 code_postal: 44
 latitude: 47.2288555
 longitude: -1.5482606
+web: "https://humanlabapajh44.org/"
 ---
 
 {% include box.html image="apajh44.png" nom="APAJH 44 - Human Lab" adresse="5 allée Frida Kahlo - Halles 1&2" cp="44200" ville="Nantes" email="mailto:humanlab@apajh44.org" web="https://humanlabapajh44.org/" %}

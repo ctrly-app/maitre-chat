@@ -10,6 +10,7 @@ departement: Rhône
 code_postal: 69
 latitude: 45.7000012
 longitude: 4.8815453
+web: "https://www.autonabee.com/"
 ---
 
 {% include box.html image="autonabee.png" nom="Autonabee" adresse="13 Avenue Marcel Paul" cp="69200" ville="Vénissieux" email="contact@autonabee.com" web="https://www.autonabee.com/" %}

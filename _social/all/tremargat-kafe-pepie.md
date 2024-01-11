@@ -10,6 +10,7 @@ departement: Côte d'Armor
 code_postal: 22
 latitude: 48.3326535
 longitude: -3.2685788
+web: "https://www.tremargad-kafe.com/"
 ---
 
 {% include box.html image="pepie.png" nom="Tremargat Kafe - La Pépie" adresse=" 1 Route du Lavoir" cp="22110" ville="Trémargat" email="02 96 36 51 81" web="https://www.tremargad-kafe.com/" %}

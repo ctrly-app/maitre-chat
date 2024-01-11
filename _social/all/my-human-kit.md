@@ -10,6 +10,7 @@ departement: Ille-et-Vilaine
 code_postal: 35
 latitude: 48.1280517578125
 longitude: -1.7033361196517944
+web: "https://myhumankit.org/"
 ---
 
 {% include box.html image="my-human-kit.png" nom="My Human Kit" adresse="2 avenue du Bois Labbé " cp="35000" ville="Rennes" email="+ 33 (0) 768 328 321" web="https://myhumankit.org/" %}

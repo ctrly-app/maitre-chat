@@ -10,6 +10,7 @@ departement: Drôme
 code_postal: 26
 latitude: 44.695139
 longitude: 5.1964592
+web: "https://voieslibresdrome.wordpress.com/"
 ---
 
 {% include box.html image="voies-libres-drome.png" nom="Voies Libres Drôme" adresse="36 grande rue" cp="26340" ville="Saillans" email="voies_libres_drome@riseup.net" web="https://voieslibresdrome.wordpress.com/" %}
