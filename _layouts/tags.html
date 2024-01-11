@@ -17,8 +17,9 @@ layout: default
     <p class="text-center text-uppercase fw-bold">({{ paginator.total_posts }} initiatives)</p>
     {% for post in paginator.posts %}
     <div class="row justify-content-md-center mt-4 mb-4">
-      <div class="col-md-8 d-flex flex-column justify-content-center align-items-center px-5">
-        <a href="{{ post.url | relative_url }}" class="fw-bold is-text-primary text-uppercase text-center">{{ post.title
+      <div class="col-md-8 d-flex flex-column justify-content-center align-items-center px-4">
+        <a href="{{ post.url | relative_url }}" class="fw-bold is-text-primary text-uppercase text-center mt-3">{{
+          post.title
           }}</a>
         <p class="fw-bold">{{ post.departement }} ({{ post.code_postal }})</p>
         <p class="fw-light mt-1 article-description">{{ post.description | truncate: 500 }}</p>
