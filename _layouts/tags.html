@@ -18,7 +18,8 @@ layout: default
     {% for post in paginator.posts %}
     <div class="row justify-content-md-center mt-4 mb-4">
       <div class="col-md-8 d-flex flex-column justify-content-center align-items-center px-5">
-        <p class="fw-bold is-text-primary text-uppercase text-center">{{ post.title }}</p>
+        <a href="{{ post.url | relative_url }}" class="fw-bold is-text-primary text-uppercase text-center">{{ post.title
+          }}</a>
         <p class="fw-bold">{{ post.departement }} ({{ post.code_postal }})</p>
         <p class="fw-light mt-1 article-description">{{ post.description | truncate: 500 }}</p>
         <div class="text-end d-block d-md-none">
@@ -32,7 +33,7 @@ layout: default
         <img src="{{ site.baseurl }}/assets/images/{{post.img}}" alt="" class="article-image" />
         <div class="text-end d-none d-md-block">
           {% if page.title != 'Journal' %}
-          <a class="btn btn-grey text-uppercase mt-3" href="{{ post.web }}">accéder au site</a>
+          <a class="btn btn-grey text-uppercase mt-3" href="{{ post.web }}" target="_blank">accéder au site</a>
           {% endif %}
           <a class="btn btn-primary text-uppercase mt-3" href="{{ post.url | relative_url }}">voir</a>
         </div>

@@ -10,6 +10,7 @@ departement: Isère
 code_postal: 38
 latitude: 44.815194
 longitude: 4.3986525
+web: "https://lavalleesuspendue.org/"
 ---
 
 {% include box.html image="vallee-suspendue.png" nom="La Vallée Suspendue" adresse="quelque part" cp="" ville="Ardeche (07)" email="contact@lavalleesuspendue.org" web="https://lavalleesuspendue.org/" %}

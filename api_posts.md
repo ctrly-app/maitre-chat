@@ -19,7 +19,8 @@ pagination:
       "img": "{{ post.img }}",
       "description": "{{ post.description }}",
       "departement": "{{ post.departement }}",
-      "code_postal": "{{ post.code_postal }}"
+      "code_postal": "{{ post.code_postal }}",
+      "web" : "{{ post.web }}"
     }{% endfor %}
   ]
 }
