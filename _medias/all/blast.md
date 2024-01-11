@@ -10,6 +10,7 @@ departement: Paris
 code_postal: 75
 latitude: 48.86971664428711
 longitude: 2.3591768741607666
+web: "https://www.blast-info.fr/"
 ---
 
 {% include box.html image="blast.png" nom="Blast" adresse="3B Rue Taylor" cp="75010" ville="Paris" email="contact@blast-info.fr" web="https://www.blast-info.fr/" %}

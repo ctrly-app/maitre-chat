@@ -10,6 +10,7 @@ departement: Finistère
 code_postal: 29
 latitude: 48.45
 longitude: -3.88333
+web: "https://www.facebook.com/people/La-boutique-vinyls/100057078025046/?locale=fr_FR"
 ---
 
 {% include box.html image="la-boutique.png" nom="La boutique" adresse="1 Rue du Général Leclerc" cp="29410" ville="Plounéour-Ménez" email="david.bazin1@sfr.fr" web="https://www.facebook.com/people/La-boutique-vinyls/100057078025046/?locale=fr_FR" %}

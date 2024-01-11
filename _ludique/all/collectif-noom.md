@@ -10,6 +10,7 @@ departement: Morbihan
 code_postal: 56
 latitude: 47.9586458
 longitude: -2.2924529
+web: "https://www.facebook.com/people/Collectif-NOOM/100064772556702/?locale=fr_FR"
 ---
 
 {% include box.html image="noom.png" nom="Collectif Noom" adresse="" cp="56800" ville="Campénéac" email="" web="https://www.facebook.com/people/Collectif-NOOM/100064772556702/?locale=fr_FR" %}

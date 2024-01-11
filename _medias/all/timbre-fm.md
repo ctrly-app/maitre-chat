@@ -10,6 +10,7 @@ departement: Morbihan
 code_postal: 56
 latitude: 47.919574
 longitude: -2.2774571
+web: "https://timbrefm.fr/"
 ---
 
 {% include box.html image="timbre-fm.png" nom="Timbre FM" adresse="Rue de Trevinio" cp="56800" ville="Augan" email="Formulaire de contact" web="https://timbrefm.fr/" %}

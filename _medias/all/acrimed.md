@@ -10,6 +10,7 @@ departement: Paris
 code_postal: 75
 latitude: 48.87128829956055
 longitude: 2.3569037914276123
+web: "https://www.acrimed.org/"
 ---
 
 {% include box.html image="acrimed.png" nom="Acrimed" adresse="39 rue du Faubourg-Saint-Martin" cp="75010" ville="Paris" email="09 52 86 52 91" web="https://www.acrimed.org/" %}

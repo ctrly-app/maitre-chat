@@ -8,6 +8,7 @@ tags: ludique
 description: "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !"
 departement: NR
 code_postal: NR
+web: "https://mindustrygame.github.io/"
 ---
 
 {% include box.html image="mindustry.png" nom="Mindustry" adresse="" cp="" ville="" email="" web="https://mindustrygame.github.io/" %}

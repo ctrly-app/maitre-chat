@@ -10,6 +10,7 @@ departement: Morbihan
 code_postal: 56
 latitude: 47.8223684
 longitude: -2.5068241
+web: "https://www.lateledespasseurs.org/"
 ---
 
 {% include box.html image="la-tele-des-passeurs.png" nom="La télé des passeurs" adresse="15 rue du général de Kerhué" cp="56460" ville="Sérent" email="lespasseurs02@hotmail.fr" web="https://www.lateledespasseurs.org/" %}

@@ -10,6 +10,7 @@ departement: Jura
 code_postal: 39
 latitude: 47.0921047
 longitude: 5.4925463
+web: "https://librescommeres.fr/"
 ---
 
 {% include box.html image="libres-commeres.png" nom="Libres Commères" adresse="" cp="39100" ville="Dole" email="contact@librescommeres.fr" web="https://librescommeres.fr/" %}

@@ -10,6 +10,7 @@ departement: Bouches-du-Rhône
 code_postal: 13
 latitude: 43.2907600402832
 longitude: 5.388350486755371
+web: "https://www.terreludique.org/"
 ---
 
 {% include box.html image="terre-ludique.png" nom="Terre Ludique" adresse="71 rue des Bons Enfants" cp="13006" ville="Marseille" email="contact@terreludique.org" web="https://www.terreludique.org/" %}

@@ -8,6 +8,7 @@ tags: ludique
 description: "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !"
 departement: France
 code_postal: NR
+web: "https://papypolca.fr/"
 ---
 
 {% include box.html image="papy-polca.png" nom="Papy Polca" adresse="" cp="" ville="" email="Formulaire de contact" web="https://papypolca.fr/" %}
