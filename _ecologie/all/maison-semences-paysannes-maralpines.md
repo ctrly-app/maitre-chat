@@ -10,6 +10,7 @@ departement: Cher
 code_postal: 18
 latitude: 46.72331237792969
 longitude: 2.5062689781188965
+web: "http://mspm.fr/"
 ---
 
 {% include box.html image="maison-semences-paysannes-maralpines.png" nom="Maison des Semences Paysannes Maralpines" adresse="16, rue porte de Bourges" cp="18200" ville="St-Amand-Montrond" email="02 36 40 91 57" web="http://mspm.fr/" %}

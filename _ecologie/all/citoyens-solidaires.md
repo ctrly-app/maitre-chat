@@ -10,6 +10,7 @@ departement: Nord
 code_postal: 59
 latitude: 50.7429436
 longitude: 3.0662496
+web: "https://citoyens-solidaires.fr"
 ---
 
 {% include box.html image="citoyens-solidaires.png" nom="Citoyens Solidaires" adresse="8, rue du Lion d’Or" cp="59126" ville="Linselles" email="contact@citoyens-solidaires.fr" web="https://citoyens-solidaires.fr" %}

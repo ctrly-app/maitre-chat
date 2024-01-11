@@ -10,10 +10,10 @@ departement: Isère
 code_postal: 38
 latitude: 43.984923
 longitude: 5.7311535
+web: "https://www.prolongomaif.ch"
 ---
 
-{% include box.html image="longomai.png" nom="Longo Maï" adresse="" cp="04300" ville="Limans" email="info@prolongomai.ch" web="www.prolongomaif.ch
-" %}
+{% include box.html image="longomai.png" nom="Longo Maï" adresse="" cp="04300" ville="Limans" email="info@prolongomai.ch" web="https://www.prolongomaif.ch" %}
 
 {: .mb-5}
 

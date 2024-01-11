@@ -10,6 +10,7 @@ departement: Isère
 code_postal: 38
 latitude: 45.331967
 longitude: 5.4865278
+web: "https://www.latelierpaysan.org/"
 ---
 
 {% include box.html image="atelier-paysan.png" nom="Atelier Paysan" adresse="ZA des papeteries" cp="38140" ville="renage" email="contact@latelierpaysan.org" web="https://www.latelierpaysan.org/" %}

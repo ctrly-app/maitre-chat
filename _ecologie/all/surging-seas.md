@@ -10,6 +10,7 @@ departement: Princeton
 code_postal: US
 latitude: 40.3492744
 longitude: -74.6592958
+web: "https://ss2.climatecentral.org/"
 ---
 
 {% include box.html image="surging-seas.png" nom="Surging Seas" adresse="One Palmer Square, Suite 402" cp="NJ 08542" ville="Princeton" email="slr-contact@climatecentral.org" web="https://ss2.climatecentral.org/" %}

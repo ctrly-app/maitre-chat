@@ -10,6 +10,7 @@ departement: Lot-et-Garonne
 code_postal: 47
 latitude: 44.3020797
 longitude: 0.3381414
+web: "https://www.semencespaysannes.org/"
 ---
 
 {% include box.html image="semences-paysannes.png" nom="Semences Paysannes" adresse="10, Place Clémenceau " cp="47190" ville="AIGUILLON" email="contact@semencespaysannes.org" web="https://www.semencespaysannes.org/" %}
