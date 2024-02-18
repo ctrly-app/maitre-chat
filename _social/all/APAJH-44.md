@@ -19,6 +19,8 @@ web: "https://humanlabapajh44.org/"
 
 ## Présentation
 
+{: .mb-5}
+
 **L'association de loi 1901 APAJH 44, créée en 1970, promeut la dignité et la citoyenneté des personnes en situation de handicap. L'association décide de créer un fablab en 2017 avec l’acquisition d’une imprimante 3D pour créer des objets adaptés.**
 
 En Septembre 2019, l'association crée un partenariat avec My Human Kit, les pionniers dans ce domaine ! L’objectif pour nous était d’ouvrir un lieu ouvert à tous, permettant de concevoir et de créer l’objet adapté au besoin de chaque personne, mais d’offrir un espace d’échange, de partage, de solidarité favorisant l’inclusion et la mixité, d’où le nom HUMANLAB. Pour nous, la technologie est un prétexte à la rencontre !
@@ -32,8 +34,6 @@ Le Humanlab est composé de bénévoles, de salariés APAJH et d’un réseau so
 
 ### 2 - Devenir mécène :
 - Apporter un soutien financier : <a href="https://humanlabapajh44.org/devenir-mecene" target="_blank"> Cliquer ici > </a>
-
-  Cliquez ici >
 
   {% endcapture %}
 
