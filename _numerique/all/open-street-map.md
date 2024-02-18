@@ -33,6 +33,8 @@ Wikipedia
 
 Open Street Map est un merveilleux projet ! Il s'agit d'un projet qui réside par l'implication de ses membres bénévoles qui quotidiennement, régulièrement ou plus ponctuellement, améliorent la plateforme cartographique numérique dans le monde entier grâce à l'ajout d'informations précises et détaillées en constatant IRL la réalité du terrain. 
 
+{: .mb-5}
+
 L'objectif d'OSM est de démocratiser et rendre accessible à tous la cartographie numérique grâce à une contribution participative et collaborative, de personnes bénévoles, passionnées ou non, qui apportent leur pierre à l'édifice via le renseignements d'informations concrètes lors de leurs déplacements et périgrinations. 
 
 {: .mb-5}
