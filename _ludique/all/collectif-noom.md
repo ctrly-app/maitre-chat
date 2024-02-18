@@ -5,7 +5,8 @@ date:   2023-09-13 19:16:49 +0100
 author: "maitre-chat"
 img: noom.png
 tags: ludique
-description: "Le collectif Noom a vu le jour il y a 15 ans à Campénéac où un groupe de citoyens engagés décide de réhabiliter une boîte de nuit désaffectée en salle de concerts autogérée. Au cœur de leur projet : l’entraide et la culture pour tous, avec ou sans moyens. Une initiative comme on aime ! Ce lieu autogéré, qui n'a aucune subventions ou fonds privés, propose un modèle d'otrganisation à rebouds du consumérisme ambiant. Ambiance punk garantie, à savourer sans modération."
+description: "Le collectif Noom a vu le jour il y a 15 ans à Campénéac où un groupe de citoyens engagés décide de réhabiliter une boîte de nuit désaffectée en salle de concerts autogérée. Au cœur de leur projet : l’entraide et la culture pour tous, avec ou sans moyens. Une initiative comme on aime ! Ce lieu autogéré, qui n'a aucune subventions ou fonds privés, propose un modèle d'otrganisation à rebouds du consumérisme ambiant. 
+"
 departement: Morbihan
 code_postal: 56
 latitude: 47.9586458
