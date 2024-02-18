@@ -27,13 +27,17 @@ Les données d'OSM peuvent être utilisées de diverses manières, notamment pou
 
 Par l'utilisation de moyens informatiques reposant sur Internet qui permettent l'intervention et la collaboration de tout utilisateur bénévole, OpenStreetMap relève de la géomatique 2.0, de l'information géographique bénévole et de la néogéographie, dont les outils composent le GeoWeb."
 
+{: .mb-5}
+
 Wikipedia
 
 Open Street Map est un merveilleux projet ! Il s'agit d'un projet qui réside par l'implication de ses membres bénévoles qui quotidiennement, régulièrement ou plus ponctuellement, améliorent la plateforme cartographique numérique dans le monde entier grâce à l'ajout d'informations précises et détaillées en constatant IRL la réalité du terrain. 
 
 L'objectif d'OSM est de démocratiser et rendre accessible à tous la cartographie numérique grâce à une contribution participative et collaborative, de personnes bénévoles, passionnées ou non, qui apportent leur pierre à l'édifice via le renseignements d'informations concrètes lors de leurs déplacements et périgrinations. 
 
-##### OPEN STREET MAP HUMANITAIRE : une initiative solidaire
+{: .mb-5}
+
+## OPEN STREET MAP HUMANITAIRE : une initiative solidaire
 
 Egalement, un autre projet est a saluer grâce à l'utilisation d'OSM pour une initiative à impact et solidaire : Open Street Map Humanitaire.
 
