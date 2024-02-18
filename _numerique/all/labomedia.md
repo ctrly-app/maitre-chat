@@ -5,7 +5,7 @@ date:   2023-09-13 19:16:49 +0100
 author: "maitre-chat"
 img: labomedia-vignette.png
 tags: numerique
-description: "PiNG est une association nantaise qui s’active depuis 2004. Sa mission ? Questionner le monde numérique dans lequel nous vivons et l’explorer ensemble avec la tête et les deux mains !"
+description: "L’association Labomedia s’est initialement constituée à partir de l’envie partagée de plusieurs associations d’investir le champ des arts numériques. En 1999 Mixar, Lumen, Radio Campus, l’Oreille et l’Otre Oreille fondent ainsi l’association Ultimédia devenue aujourd’hui Labomedia. Labomedia place son projet d’activités à la croisée des pratiques artistiques, articulé ainsi autour d’un pôle dédié à la création artistique, à la recherche et au développement, à la diffusion, un pôle dédié à la fabrication numérique de type « FabLab », l’atelier du c01n, et un pôle ressource tourné vers l’accompagnement de projets, l’innovation pédagogique, et à la transmission de savoirs selon le principes des logiciels et connaissances « libres »."
 departement: Loiret
 code_postal: 45
 latitude: 47.90032196044922
