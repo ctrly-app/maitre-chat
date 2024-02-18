@@ -22,4 +22,4 @@ Ce lieu dédié à l'écologie populaire est absolument inédit en France. Il s'
 
 Ici nous ne prêchons pas l'écologie populaire, nous l'organisons pour la construire. 
 
-Deviens bénévole, rejoins-nous : https://airtable.com/shruhl7jFtlsthUXC
+Deviens bénévole, rejoins-les : https://airtable.com/shruhl7jFtlsthUXC
