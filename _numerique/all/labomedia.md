@@ -13,7 +13,7 @@ longitude: 1.9116075038909912
 web: "https://labomedia.org/"
 ---
 
-{% include box.html image="labomedia.png" nom="Labomedia" adresse="108 rue de Bourgogne" cp="45000" ville="Orléans" email="Formulaire de contact" web="https://labomedia.org/" %}
+{% include box.html image="labomedia.png" nom="Labomedia" adresse="108 rue de Bourgogne" cp="45000" ville="Orléans" email="lalabomedia@labomedia.net" web="https://labomedia.org/" %}
 
 {: .mb-5}
 
