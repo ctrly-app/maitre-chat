@@ -55,17 +55,17 @@ Des inventeurs et des inventeuses, qui conçoivent, expérimentent, se réapprop
 ### 1 - Plans et tutoriels en accès libre :
 Pour fabriquer des outils et des constructions avec un guide clé en main directement de chez vous :
 
-https://latelierpaysan.org/Plans-et-Tutoriels
+<a href="https://latelierpaysan.org/Plans-et-Tutoriels" target="_blank">> Découvrir</a>
 
 ### 2 - Formations :
 Apprendre et pratiquer pour se ré-approprier les savoirs : s’initier ou se perfectionner aux techniques de travail de l’acier : soudage, découpe, perçage… tout en acquérant un outil agricole à moindre coût.
 
-https://latelierpaysan.org/Formations
+<a href="https://latelierpaysan.org/Formations" target="_blank">> Découvrir</a>
 
 ### 3 - Recencer les initiatives paysannes :
 Aller de fermes en fermes recueillir, documenter, chroniquer des adaptations, des astuces, des bonnes pratiques autour de l’outillage, du machinisme et des bâtiments qui constituent l’outil de travail de l’exploitation.
 
-https://www.latelierpaysan.org/Qu-est-ce-qu-une-TRIP
+<a href="https://www.latelierpaysan.org/Qu-est-ce-qu-une-TRIP" target="_blank">> Découvrir</a>
 
 {% endcapture %}
 
