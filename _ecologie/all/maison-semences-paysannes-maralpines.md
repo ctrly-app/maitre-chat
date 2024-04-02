@@ -13,7 +13,7 @@ longitude: 2.5062689781188965
 web: "http://mspm.fr/"
 ---
 
-{% include box.html image="maison-semences-paysannes-maralpines.png" nom="Maison des Semences Paysannes Maralpines" adresse="16, rue porte de Bourges" cp="18200" ville="St-Amand-Montrond" email="02 36 40 91 57" web="http://mspm.fr/" %}
+{% include box.html image="maison-semences-paysannes-maralpines.png" nom="Maison des Semences Paysannes Maralpines" adresse="16, rue porte de Bourges" cp="18200" ville="St-Amand-Montrond" email="semencemaralpine@gmail.com" web="http://mspm.fr/" %}
 
 {: .mb-5}
 
@@ -35,3 +35,20 @@ L'association possède plusieurs missions qui sont les suivantes :
 - Formation : le collectif organise des formations afin de diffuser les savoir-faire essentiels de reproduction, conservation, sélection, amélioration des semences et les savoirs génétiques et législatifs associés. 
 
 - Bibliothèque : le collectif gère une bibliothèque, papier et numérique, de livres, de reportages, de films, d’articles et de thèses qui retracent les savoir-faire, les luttes et périls, l’histoire et l’avenir des semences. Ce lieu consultatif permet aux citoyens de s’initier et d’approfondir leurs connaissances sur les semences. Le collectif peut ainsi pérenniser l’accès à ces savoirs essentiels à la ré-appropriation de la souveraineté alimentaire.
+
+{% capture phares %}
+
+### 1 - Faites un don :
+
+Pour  soutenir l’association, n'hésitez pas à soumettre un don directement sur leur site grâce à un paiement unique ou un paiement régulier (au rythme de votre choix) : 
+
+- Don unique ou régulier : <a href="http://mspm.fr/2021/02/20/adherez/" target="_blank">Cliquez ici ></a>
+
+### 2 - Suivez-les :
+
+<a href="https://www.facebook.com/semencesmaralpines/" target="_blank">> Facebook</a>
+
+
+  {% endcapture %}
+
+{% include phares.html titre="POUR ALLER PLUS LOIN" content=phares %}
