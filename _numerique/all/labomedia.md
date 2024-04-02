@@ -34,16 +34,13 @@ Labomedia propose ainsi au cours de l’année des temps de résidence, des atel
 
 ### 1 - Adhérer à l'association :
 Pour soutenir et rejoindre le projet, veuillez adhérer à l'association. Le montant de l'adhésion est de 20€ par an. 
-- Pour y adhérer c'est par ici > <a href="https://www.helloasso.com/associations/la-labomedia/adhesions/2023-24-adhesion-renouvellement-pour-les-particuliers" target="_blank">Cliquez ici ></a> > 
+- Pour y adhérer c'est par ici : <a href="https://www.helloasso.com/associations/la-labomedia/adhesions/2023-24-adhesion-renouvellement-pour-les-particuliers" target="_blank">Cliquez ici ></a>
 
 ### 2 - Faire un don :
 
-Pour  soutenir l’association financièrement, n'hésitez pas à soumettre un don directement : 
-
-  
-<a href="https://www.helloasso.com/associations/la-labomedia/formulaires/1" target="_blank">Cliquez ici ></a>
+Pour  soutenir l’association financièrement, n'hésitez pas à soumettre un don directement : <a href="https://www.helloasso.com/associations/la-labomedia/formulaires/1" target="_blank">Cliquez ici ></a>
 
 
   {% endcapture %}
-  
+
 {% include phares.html titre="POUR ALLER PLUS LOIN" content=phares %}
