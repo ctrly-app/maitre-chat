@@ -158,13 +158,13 @@ PING propose également des parcours intermédiaires ou autonomie pour les adhé
 
 {% capture phares %}
 ### 1 - Adhérer à l'association :
-Pour soutenir les valeurs de notre projet associatif qui défend  une certaine vision du numérique, accéder à nos ateliers pour de la  pratique libre et tout un programme d’activité, mais aussi pour  rejoindre et faire vivre une chouette communauté !
+Pour soutenir les valeurs de ce projet associatif qui défend une certaine vision du numérique, accéder à leurs ateliers, mais aussi pour rejoindre et faire vivre une chouette communauté, rejoignez-les : 
 
 - De 5€ / an (tarif solidaire) à 90€ / an (plein tarif)
 
 ### 2 - Faire un don :
 
-Pour  soutenir l’association afin de leur permettre de maintenir leur  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi leur permettre de développer de nouveaux projets comme des  interfaces pour faciliter la documentation !
+Pour  soutenir l’association afin de leur permettre de maintenir leur  politique tarifaire et favoriser l’accès aux activités de l’association, mais aussi leur permettre de développer de nouveaux projets, n'hésitez pas à faire un don (ils vous diront un grand merci) :
 
   
 <a href="https://ping.odoo.com/shop/category/dons-1" target="_blank">Cliquez ici ></a>
