@@ -32,9 +32,12 @@ web: "https://www.prolongomaif.ch"
 
 "Dans la foulée de Mai 68, des jeunes issus des groupes étudiants et apprentis autrichiens de la ligue spartakiste, réfugiés en Suisse à la suite d'affrontements avec les groupes néonazis, se lient aux étudiants et apprentis suisses du groupe Hydra ou Hydra7. Ces deux organisations mènent de nombreuses actions militantes contre l’église, l’armée, les dictatures et en faveur des réfugiés, des luttes ouvrières, etc. Ils soutiennent, notamment, à Schirmeck les travailleurs qui veulent reprendre leur usine en autogestion. Lors d'un congrès tenu en 1972, ces jeunes urbains allemands, suisses et autrichiens décident d'expérimenter de nouvelles façons de vivre et de faire de la politique dans une région rurale dépeuplée en y fondant une communauté, « une base de survie ».(Wikipedia)
 
+{: .mb-5}
+
 En 1973, grâce à une collecte de fonds, le groupe achète un domaine de 270 ha à Limans près de Forcalquier dans les Alpes-de-Haute-Provence pour y implanter une coopérative rurale autogérée d’inspiration libertaire5. Le groupe s'inspire également de l'expérience collective qui s'est nouée dans les années 1930 autour de la figure de Jean Giono dans la même région. [...] Le fonctionnement est basé sur l’autosubsistance, la vie communautaire, les productions artisanales et agricoles, la gestion autonome et écologique de l’énergie, de l’eau, ainsi que du refus du salariat inspiré du principe communiste libertaire de la prise au tas." (Wikipedia)
 
 {: .mb-5}
+
 
 ##### Quel fonctionnement ?
 
