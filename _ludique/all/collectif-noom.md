@@ -14,7 +14,7 @@ longitude: -2.2924529
 web: "https://www.facebook.com/people/Collectif-NOOM/100064772556702/?locale=fr_FR"
 ---
 
-{% include box.html image="noom.png" nom="Collectif Noom" adresse="" cp="56800" ville="Campénéac" email="" web="https://www.facebook.com/people/Collectif-NOOM/100064772556702/?locale=fr_FR" %}
+{% include box.html image="noom.png" nom="Collectif Noom" adresse="" cp="56800" ville="Campénéac" email="cirquenoom@gmail.com" web="https://www.facebook.com/people/Collectif-NOOM/100064772556702/?locale=fr_FR" %}
 
 {: .mb-5}
 
@@ -26,7 +26,7 @@ En raison d'obligations de travaux récents, le collectif NoOm a besoin d'aide p
 
 Ce lieu autogéré, qui n'a aucune subventions ou fonds privés, propose un modèle d'otrganisation à rebouds du consumérisme ambiant.
 
-Si vous êtes dans le coin, n'hésitez pas à les rencontrer et à découvrir leurs évènements. 
+Si vous êtes dans le coin, n'hésitez pas à passer les voir et à participer à leurs <a href="https://www.facebook.com/people/Collectif-NOOM/100064772556702/" target="_blank">évènements</a>. 
 
 Ambiance punk garantie, à savourer sans modération. 
 
