@@ -41,3 +41,21 @@ En 1973, grâce à une collecte de fonds, le groupe achète un domaine de 270 ha
 {: .mb-5}
 
 "La communauté s’administre en coopérative autogérée. Tous les biens financiers sont mis en commun et il y a un rejet du salariat. Les ressources propres de la communauté sont l’élevage, la production céréalière et maraîchère, dont elle consomme une bonne partie ; elle pratique elle-même ses coupes de bois. La coopérative de Treynas a mis en place une filière complète forêt-bois, avec une scierie, menuiserie et une équipe de charpentiers. La filature de laine est alimentée par l’hydroélectricité ; la chaleur est fournie par l’énergie solaire et le bois." (Wikipedia)
+
+{% capture phares %}
+
+### 1 - Faire un don :
+
+Pour  soutenir l’association, n'hésitez pas à soumettre un don directement sur leur site grâce à un paiement unique ou un paiement régulier (au rythme de votre choix) : 
+
+- Don régulier : <a href="https://www.prolongomaif.ch/soutien/paiements-r%C3%A9guliers/" target="_blank">Cliquez ici ></a>
+- Don unique : <a href="https://www.prolongomaif.ch/soutien/dons/" target="_blank">Cliquez ici ></a>
+
+### 2 - Faire un leg :
+
+Les legs permettent d'acquérir des fermes abandonnées, des terres ou de la forêt pour développer de nouveaux projets : <a href="https://www.prolongomaif.ch/soutien/legs-et-h%C3%A9ritages/" target="_blank">Cliquez ici ></a>
+
+
+  {% endcapture %}
+
+{% include phares.html titre="POUR ALLER PLUS LOIN" content=phares %}
